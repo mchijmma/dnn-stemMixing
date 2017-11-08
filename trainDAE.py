@@ -1,11 +1,9 @@
 
 # coding: utf-8
 
-# In[1]:
+
 from __future__ import division
 from __future__ import print_function
-# import hypertools as hyp
-# import seaborn as sns
 from datetime import datetime
 
 import sys
@@ -14,10 +12,7 @@ import pickle
 import copy
 from collections import OrderedDict
 
-# from pylab import plot, show, figure, imshow
-# %matplotlib notebook
-# import matplotlib.pyplot as plt
-# plt.style.use('ggplot')
+
 
 import h5py
 import librosa
@@ -25,6 +20,7 @@ import librosa.display
 import numpy as np 
 import pandas as pd
 from scipy.signal import lfilter
+import matplotlib.pyplot as plt
 
 from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
 from sklearn import preprocessing
@@ -58,10 +54,6 @@ from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
-# from essentia.standard import *
-
-
-# In[2]:
 
 kLabels = ['b','g','v','k']
 kSR = 44100
@@ -74,8 +66,6 @@ np.random.seed(kSeed)
 kPathFiles = './DAE-WIMP/' 
 kPathAudio = './Music/Data/MedleyDB/Audio/info.tracks'
 
-
-# In[3]:
 
 def loadPickle(name, path = kPathFiles):  
     
@@ -97,8 +87,6 @@ def loadH5(name, path = kPathFiles):
     # load data from pkl file
     with h5py.File(path + name,'r') as h5f:
         b = h5f[name.split('.')[0]][:]
-#     h5f.close()
-    
     print('%s loaded, %s ' % (name, type(b)))
     
     return b
@@ -106,7 +94,6 @@ def loadH5(name, path = kPathFiles):
 def saveH5(d, name, path = kPathFiles):
     with h5py.File(path + name, 'w') as h5f:
         h5f.create_dataset(name.split('.')[0], data = d)
-#     h5f.close() 
     print('%s Saved' % (name))
 
 
@@ -116,7 +103,6 @@ def saveDataset(dataset, name):
             saveH5(dataset[i+2][j], name+'_'+str(i)+'_'+j+'.h5')
             
 def loadDataset(name):
-#     data = []
     rawMagnitude = OrderedDict()
     stemMagnitude = OrderedDict()
     rawPhase = OrderedDict()
@@ -136,276 +122,257 @@ def loadDataset(name):
 
 # returns list with name of tracks that contain gInstrument
 # needs essentia to work (YAMLINPUT)
-# def getInfoTracks(group, type = 'All'):
+def getInfoTracks(group, type = 'All'):
   
-#     semitones = np.concatenate((np.linspace(-4,-0.5,8),np.linspace(0.5,4,8)))
+    semitones = np.concatenate((np.linspace(-4,-0.5,8),np.linspace(0.5,4,8)))
   
-#     nameTracks = OrderedDict()
-#     raw_path = OrderedDict()
-#     stem_path = OrderedDict()
-#     stem_stereo_path = OrderedDict()
-#     entries = gInfoTracks.descriptorNames()
+    nameTracks = OrderedDict()
+    raw_path = OrderedDict()
+    stem_path = OrderedDict()
+    stem_stereo_path = OrderedDict()
+    entries = gInfoTracks.descriptorNames()
     
-#     for instrument in group:
-#         name_tracks = []
-#         for entry in entries:
-#             split = entry.split('.')
-#             if instrument == split[2]:
-#                 name_tracks.append(split[1])
+    for instrument in group:
+        name_tracks = []
+        for entry in entries:
+            split = entry.split('.')
+            if instrument == split[2]:
+                name_tracks.append(split[1])
               
-#         name_tracks = list(set(name_tracks))
-#         nameTracks[instrument] = name_tracks
+        name_tracks = list(set(name_tracks))
+        nameTracks[instrument] = name_tracks
         
-#         if type == 'original':
+        if type == 'original':
             
-#             for name in name_tracks:
-#                 raw_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.raw_path' % (name, instrument)]
-#                 stem_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.stem_path_mono' % (name, instrument)]      
-#                 stem_stereo_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.stem_path_stereo' % (name, instrument)]
+            for name in name_tracks:
+                raw_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.raw_path' % (name, instrument)]
+                stem_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.stem_path_mono' % (name, instrument)]      
+                stem_stereo_path[name+'_'+instrument] = gInfoTracks['track.%s.%s.stem_path_stereo' % (name, instrument)]
     
-#         else:
+        else:
     
-#             for name in name_tracks:           
+            for name in name_tracks:           
     
-#                 raw_path[name] = gInfoTracks['track.%s.%s.raw_path' % (name, instrument)]
-#                 stem_path[name] = gInfoTracks['track.%s.%s.stem_path_mono' % (name, instrument)]      
-#                 stem_stereo_path[name] = gInfoTracks['track.%s.%s.stem_path_stereo' % (name, instrument)]
+                raw_path[name] = gInfoTracks['track.%s.%s.raw_path' % (name, instrument)]
+                stem_path[name] = gInfoTracks['track.%s.%s.stem_path_mono' % (name, instrument)]      
+                stem_stereo_path[name] = gInfoTracks['track.%s.%s.stem_path_stereo' % (name, instrument)]
     
-#                 for st in semitones:
+                for st in semitones:
     
-#                     rname = raw_path[name]
-#                     sname = stem_path[name]
-#                     ssname = stem_stereo_path[name]
+                    rname = raw_path[name]
+                    sname = stem_path[name]
+                    ssname = stem_stereo_path[name]
     
-#                     name2 = name + '%+d' % (int(100*st))
-#                     #raw
-#                     name3 = rname.split('/')[-1].split('_')
-#                     name3[1] = name3[1] + '%+d' % (int(100*st))
-#                     name3 = '_'.join(name3)
-#                     name4 = rname.split('/')
-#                     name4[-1] = name3
-#                     name3 = '/'.join(name4)
-#                     raw_path[name2] = name3
+                    name2 = name + '%+d' % (int(100*st))
+                    #raw
+                    name3 = rname.split('/')[-1].split('_')
+                    name3[1] = name3[1] + '%+d' % (int(100*st))
+                    name3 = '_'.join(name3)
+                    name4 = rname.split('/')
+                    name4[-1] = name3
+                    name3 = '/'.join(name4)
+                    raw_path[name2] = name3
     
-#                     #stem
-#                     name3 = sname.split('/')[-1].split('_')
-#                     name3[1] = name3[1] + '%+d' % (int(100*st))
-#                     name3 = '_'.join(name3)
-#                     name4 = sname.split('/')
-#                     name4[-1] = name3
-#                     name3 = '/'.join(name4)
-#                     stem_path[name2] = name3 
+                    #stem
+                    name3 = sname.split('/')[-1].split('_')
+                    name3[1] = name3[1] + '%+d' % (int(100*st))
+                    name3 = '_'.join(name3)
+                    name4 = sname.split('/')
+                    name4[-1] = name3
+                    name3 = '/'.join(name4)
+                    stem_path[name2] = name3 
     
-#                     #stem_stereo
-#                     name3 = sname.split('/')[-1].split('_')
-#                     name3[1] = name3[1] + '%+d' % (int(100*st))
-#                     name3 = '_'.join(name3)
-#                     name4 = ssname.split('/')
-#                     name4[-1] = name3
-#                     name3 = '/'.join(name4)
-#                     stem_stereo_path[name2] = name3
+                    #stem_stereo
+                    name3 = sname.split('/')[-1].split('_')
+                    name3[1] = name3[1] + '%+d' % (int(100*st))
+                    name3 = '_'.join(name3)
+                    name4 = ssname.split('/')
+                    name4[-1] = name3
+                    name3 = '/'.join(name4)
+                    stem_stereo_path[name2] = name3
 
 
 
-#     return nameTracks, raw_path, stem_path, stem_stereo_path 
+    return nameTracks, raw_path, stem_path, stem_stereo_path 
 
 
-# def getPathGroups():
+def getPathGroups():
 
-#     raw_Path = OrderedDict()
-#     stem_Path = OrderedDict()
-#     stemStereo_Path = OrderedDict()
+    raw_Path = OrderedDict()
+    stem_Path = OrderedDict()
+    stemStereo_Path = OrderedDict()
     
-#     kInstrument = ['electric bass']
-#     nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument, type = 'original')
-#     raw_Path['b'] = rawPath.values()
-#     stem_Path['b'] = stemPath.values()
-#     stemStereo_Path['b'] = stemStereoPath.values()
+    kInstrument = ['electric bass']
+    nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument, type = 'original')
+    raw_Path['b'] = rawPath.values()
+    stem_Path['b'] = stemPath.values()
+    stemStereo_Path['b'] = stemStereoPath.values()
     
-#     kInstrument = ['clean electric guitar',
-#                    'acoustic guitar',
-#                    'distorted electric guitar',
-#                    'banjo']
-#     nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
-#     raw_Path['g'] = rawPath.values()
-#     stem_Path['g'] = stemPath.values()
-#     stemStereo_Path['g'] = stemStereoPath.values()
+    kInstrument = ['clean electric guitar',
+                   'acoustic guitar',
+                   'distorted electric guitar',
+                   'banjo']
+    nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
+    raw_Path['g'] = rawPath.values()
+    stem_Path['g'] = stemPath.values()
+    stemStereo_Path['g'] = stemStereoPath.values()
     
-#     kInstrument = ['male singer',
-#                    'female singer',
-#                    'male rapper']
-#     nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
-#     raw_Path['v'] = rawPath.values()
-#     stem_Path['v'] = stemPath.values()
-#     stemStereo_Path['v'] = stemStereoPath.values()
+    kInstrument = ['male singer',
+                   'female singer',
+                   'male rapper']
+    nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
+    raw_Path['v'] = rawPath.values()
+    stem_Path['v'] = stemPath.values()
+    stemStereo_Path['v'] = stemStereoPath.values()
     
-#     kInstrument = ['piano',
-#                    'synthesizer',
-#                    'tack piano',
-#                    'electric piano']
-#     nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
-#     raw_Path['k'] = rawPath.values()
-#     stem_Path['k'] = stemPath.values()
-#     stemStereo_Path['k'] = stemStereoPath.values()
+    kInstrument = ['piano',
+                   'synthesizer',
+                   'tack piano',
+                   'electric piano']
+    nameTracks, rawPath, stemPath, stemStereoPath = getInfoTracks(kInstrument,type = 'original')
+    raw_Path['k'] = rawPath.values()
+    stem_Path['k'] = stemPath.values()
+    stemStereo_Path['k'] = stemStereoPath.values()
     
-#     return raw_Path, stem_Path, stemStereo_Path
+    return raw_Path, stem_Path, stemStereo_Path
 
 
-# def getTrainTestPaths():
+def getTrainTestPaths():
     
-#     semitones = np.concatenate((np.linspace(-4,-0.5,8),np.linspace(0.5,4,8)))
+    semitones = np.concatenate((np.linspace(-4,-0.5,8),np.linspace(0.5,4,8)))
     
-#     X_train = OrderedDict()
-#     X_train_aug = OrderedDict()
-#     X_test = OrderedDict()
-#     y_train = OrderedDict()
-#     y_train_aug = OrderedDict()
-#     y_test = OrderedDict()
+    X_train = OrderedDict()
+    X_train_aug = OrderedDict()
+    X_test = OrderedDict()
+    y_train = OrderedDict()
+    y_train_aug = OrderedDict()
+    y_test = OrderedDict()
     
-#     for i in kLabels:
+    for i in kLabels:
         
-#         X_train[i], X_test[i], y_train[i], y_test[i] = train_test_split(gRawPath[i],
-#                                                             gStemPath[i],
-#                                                             train_size=0.9,
-#                                                             random_state=kSeed)
+        X_train[i], X_test[i], y_train[i], y_test[i] = train_test_split(gRawPath[i],
+                                                            gStemPath[i],
+                                                            train_size=0.9,
+                                                            random_state=kSeed)
     
     
-#     for k in kLabels:
+    for k in kLabels:
         
-#         name_raw_aug = []
-#         name_stem_aug = []
+        name_raw_aug = []
+        name_stem_aug = []
         
-#         #Raw
-#         for p in X_train[k]:
-#             name_raw_aug.append(p)
-#             for st in semitones:
+        #Raw
+        for p in X_train[k]:
+            name_raw_aug.append(p)
+            for st in semitones:
             
-#                 rname = p
-#                 name = '_'.join([p.split('/')[-1].split('_')[0], p.split('/')[-1].split('_')[1]])
+                rname = p
+                name = '_'.join([p.split('/')[-1].split('_')[0], p.split('/')[-1].split('_')[1]])
                 
                 
-#                 name2 = name + '%+d' % (int(100*st))
-#                 #raw
-#                 name3 = rname.split('/')[-1].split('_')
-#                 name3[1] = name3[1] + '%+d' % (int(100*st))
-#                 name3 = '_'.join(name3)
-#                 name4 = rname.split('/')
-#                 name4[-1] = name3
-#                 name3 = '/'.join(name4)
+                name2 = name + '%+d' % (int(100*st))
+                #raw
+                name3 = rname.split('/')[-1].split('_')
+                name3[1] = name3[1] + '%+d' % (int(100*st))
+                name3 = '_'.join(name3)
+                name4 = rname.split('/')
+                name4[-1] = name3
+                name3 = '/'.join(name4)
                 
-#                 name_raw_aug.append(name3)
+                name_raw_aug.append(name3)
                 
-#         X_train_aug[k] = name_raw_aug
+        X_train_aug[k] = name_raw_aug
         
-#         #Stem
-#         for p in y_train[k]:
-#             name_stem_aug.append(p)
-#             for st in semitones:
+        #Stem
+        for p in y_train[k]:
+            name_stem_aug.append(p)
+            for st in semitones:
             
-#                 rname = p
-#                 name = '_'.join([p.split('/')[-1].split('_')[0], p.split('/')[-1].split('_')[1]])
+                rname = p
+                name = '_'.join([p.split('/')[-1].split('_')[0], p.split('/')[-1].split('_')[1]])
                 
                 
-#                 name2 = name + '%+d' % (int(100*st))
-#                 #raw
-#                 name3 = rname.split('/')[-1].split('_')
-#                 name3[1] = name3[1] + '%+d' % (int(100*st))
-#                 name3 = '_'.join(name3)
-#                 name4 = rname.split('/')
-#                 name4[-1] = name3
-#                 name3 = '/'.join(name4)
+                name2 = name + '%+d' % (int(100*st))
+                #raw
+                name3 = rname.split('/')[-1].split('_')
+                name3[1] = name3[1] + '%+d' % (int(100*st))
+                name3 = '_'.join(name3)
+                name4 = rname.split('/')
+                name4[-1] = name3
+                name3 = '/'.join(name4)
                 
-#                 name_stem_aug.append(name3)
+                name_stem_aug.append(name3)
                 
-#         y_train_aug[k] = name_stem_aug
+        y_train_aug[k] = name_stem_aug
         
-#     return X_train, X_train_aug, X_test, y_train, y_train_aug, y_test 
+    return X_train, X_train_aug, X_test, y_train, y_train_aug, y_test 
 
 
-# In[4]:
-
-# gXtrain, gXtrainAug, gXtest, gYtrain, gYtrainAug, gYtest = getTrainTestPaths()
 
 
-# In[5]:
+gXtrain, gXtrainAug, gXtest, gYtrain, gYtrainAug, gYtest = getTrainTestPaths()
+
+
+
 
 startTime = datetime.now()
 
-# if os.path.isfile(kPathAudio):        
-#     yamlInput = YamlInput(filename=kPathAudio)
-#     gInfoTracks = yamlInput()
-# else:
-#     print("Yaml file not found")
+if os.path.isfile(kPathAudio):        
+    yamlInput = YamlInput(filename=kPathAudio)
+    gInfoTracks = yamlInput()
+else:
+    print("Yaml file not found")
     
-# gRawPath, gStemPath, gStemStereoPath = getPathGroups()
-# gXtrain, gXtrainAug, gXtest, gYtrain, gYtrainAug, gYtest = getTrainTestPaths()
+gRawPath, gStemPath, gStemStereoPath = getPathGroups()
+gXtrain, gXtrainAug, gXtest, gYtrain, gYtrainAug, gYtest = getTrainTestPaths()
 
 
-# #%%
-# dumpPickle(gRawPath, 'gRawPath.pkl', path = kPathFiles)
-# dumpPickle(gStemPath, 'gStemPath.pkl', path = kPathFiles)
-# dumpPickle(gStemStereoPath, 'gStemStereoPath.pkl', path = kPathFiles)
-# dumpPickle(gXtrain, 'gXtrain.pkl', path = kPathFiles)
-# dumpPickle(gYtrain, 'gYtrain.pkl', path = kPathFiles)
-# dumpPickle(gXtrainAug, 'gXtrainAug.pkl', path = kPathFiles)
-# dumpPickle(gXtest, 'gXtest.pkl', path = kPathFiles)
-# dumpPickle(gYtrainAug, 'gYtrainAug.pkl', path = kPathFiles)
-# dumpPickle(gYtest, 'gYtest.pkl', path = kPathFiles)
+#%%
+dumpPickle(gRawPath, 'gRawPath.pkl', path = kPathFiles)
+dumpPickle(gStemPath, 'gStemPath.pkl', path = kPathFiles)
+dumpPickle(gStemStereoPath, 'gStemStereoPath.pkl', path = kPathFiles)
+dumpPickle(gXtrain, 'gXtrain.pkl', path = kPathFiles)
+dumpPickle(gYtrain, 'gYtrain.pkl', path = kPathFiles)
+dumpPickle(gXtrainAug, 'gXtrainAug.pkl', path = kPathFiles)
+dumpPickle(gXtest, 'gXtest.pkl', path = kPathFiles)
+dumpPickle(gYtrainAug, 'gYtrainAug.pkl', path = kPathFiles)
+dumpPickle(gYtest, 'gYtest.pkl', path = kPathFiles)
 
 gRawPath = loadPickle('gRawPath.pkl', path = kPathFiles)
 gStemPath = loadPickle('gStemPath.pkl', path = kPathFiles)
 gStemStereoPath = loadPickle('gStemStereoPath.pkl', path = kPathFiles)
 gXtrain = loadPickle('gXtrain.pkl', path = kPathFiles)
-# gYtrain = loadPickle('gYtrain.pkl', path = kPathFiles)
+gYtrain = loadPickle('gYtrain.pkl', path = kPathFiles)
 gXtrainAug = loadPickle('gXtrainAug.pkl', path = kPathFiles)
 gXtest = loadPickle('gXtest.pkl', path = kPathFiles)
 gYtrainAug = loadPickle('gYtrainAug.pkl', path = kPathFiles)
 gYtest = loadPickle('gYtest.pkl', path = kPathFiles)
-
-#gGridSearch = {}
-#gGridSearch['b'] = loadPickle('grid-b.pkl', path = kPathFiles)
-#gGridSearch['g'] = loadPickle('grid-g.pkl', path = kPathFiles)
-#gGridSearch['v'] = loadPickle('grid-v.pkl', path = kPathFiles)
-#gGridSearch['k'] = loadPickle('grid-k.pkl', path = kPathFiles)
-#gGridSearch2 = {}
-#gGridSearch2['b'] = loadPickle('grid2-b.pkl', path = kPathFiles)
-#gGridSearch2['g'] = loadPickle('grid2-g.pkl', path = kPathFiles)
-# gGridSearch2['v'] = loadPickle('grid2-v.pkl', path = kPathFiles)
-# gGridSearch2['k'] = loadPickle('grid2-k.pkl', path = kPathFiles)
-
-
-
-
 
 # saveDataset(DataTrain, 'Train')
 # saveDataset(DataTest, 'Test')
 
 DataTrain = loadDataset('Train')
 
-
 gXtrainMagnitude = DataTrain[0]
 gYtrainMagnitude = DataTrain[1]
 gXtrainPhase = DataTrain[2]
 gYtrainPhase = DataTrain[3]
 
-# DataTest = loadDataset('Test')
+DataTest = loadDataset('Test')
 
 
-# gXtestMagnitude = DataTest[0]
-# gYtestMagnitude = DataTest[1]
-# gXtestPhase = DataTest[2]
-# gYtestPhase = DataTest[3]
+gXtestMagnitude = DataTest[0]
+gYtestMagnitude = DataTest[1]
+gXtestPhase = DataTest[2]
+gYtestPhase = DataTest[3]
 
 print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)))
 
 
-# In[6]:
 
 def load_sound_files(file_paths, sr = kSR, loudnessNorm = True):
     raw_sounds = []
     for fp in file_paths:
-        
-#         print(fp)
         X,_sr = librosa.load(fp, sr=sr)
 
         if loudnessNorm:
@@ -615,8 +582,6 @@ def K_filter(signal, fs, debug=False):
     return signal_2 # return signal passed through 2 pre-filters        
 
 
-# In[7]:
-
 def getAudioMagnitudePhase(rawPath, stemPath, loudnessNorm = True):
     
     rawAudio = OrderedDict()
@@ -662,155 +627,124 @@ def getAudioMagnitudePhase(rawPath, stemPath, loudnessNorm = True):
     return rawAudio, stemAudio, rawMagnitude, stemMagnitude, rawPhase, stemPhase
 
 
+
+startTime = datetime.now()
+
+DataTest = getAudioMagnitudePhase(gXtest, gYtest)
+
+gXtestAudio = DataTest[0]
+gYtestAudio = DataTest[1]
+gXtestMagnitude = DataTest[2]
+gYtestMagnitude = DataTest[3]
+gXtestPhase = DataTest[4]
+gYtestPhase = DataTest[5]
+
+print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
+    '{} Bass r/s tracks \n'.format(gXtestPhase['b'].shape[0]),
+    '{} Guitar r/s tracks \n'.format(gXtestPhase['g'].shape[0]),
+    '{} Keys r/s tracks \n'.format(gXtestPhase['k'].shape[0]),
+    '{} Vocal r/s tracks \n'.format(gXtestPhase['v'].shape[0])) 
+     
+
+
 # In[ ]:
 
-#startTime = datetime.now()
-#
-#DataTest = getAudioMagnitudePhase(gXtest, gYtest)
-#
-#gXtestAudio = DataTest[0]
-#gYtestAudio = DataTest[1]
-#gXtestMagnitude = DataTest[2]
-#gYtestMagnitude = DataTest[3]
-#gXtestPhase = DataTest[4]
-#gYtestPhase = DataTest[5]
-#
-#print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
-#     '{} Bass r/s tracks \n'.format(gXtestPhase['b'].shape[0]),
-#     '{} Guitar r/s tracks \n'.format(gXtestPhase['g'].shape[0]),
-#     '{} Keys r/s tracks \n'.format(gXtestPhase['k'].shape[0]),
-#     '{} Vocal r/s tracks \n'.format(gXtestPhase['v'].shape[0])) 
-#      
-#
-#
-## In[ ]:
-#
-#startTime = datetime.now()
-#
-#DataTrain = getAudioMagnitudePhase(gXtrainAug, gYtrainAug)
-#
-#gXtrainAudio = DataTrain[0]
-#gYtrainAudio = DataTrain[1]
-#gXtrainMagnitude = DataTrain[2]
-#gYtrainMagnitude = DataTrain[3]
-#gXtrainPhase = DataTrain[4]
-#gYtrainPhase = DataTrain[5]
-#
-#print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
-#     '{} Bass r/s tracks \n'.format(gYtrainPhase['b'].shape[0]),
-#     '{} Guitar r/s tracks \n'.format(gYtrainPhase['g'].shape[0]),
-#     '{} Keys r/s tracks \n'.format(gYtrainPhase['k'].shape[0]),
-#     '{} Vocal r/s tracks \n'.format(gYtrainPhase['v'].shape[0])) 
-#
-#
-## In[8]:
-#
-#startTime = datetime.now()
-#
-#Data = getAudioMagnitudePhase(gRawPath, gStemPath)
-#
-#gXAudio = Data[0]
-#gYAudio = Data[1]
-#gXMagnitude = Data[2]
-#gYMagnitude = Data[3]
-#gXPhase = Data[4]
-#gYPhase = Data[5]
-#
-#print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
-#     '{} Bass r/s tracks \n'.format(gYPhase['b'].shape[0]),
-#     '{} Guitar r/s tracks \n'.format(gYPhase['g'].shape[0]),
-#     '{} Keys r/s tracks \n'.format(gYPhase['k'].shape[0]),
-#     '{} Vocal r/s tracks \n'.format(gYPhase['v'].shape[0])) 
-#
-#
-## In[ ]:
-#
-#k = 'b'
-#i = 0
-#
-#plotStemRawSpectrum(gXtestMagnitude[k][i], gYtestMagnitude[k][i], colorbar = False, power = False)
-#i = i+1
-#
-#
-## In[ ]:
-#
-#k = 'v'
-#i = 0
-#
-#plotStemRawTrack(gXtestAudio[k][i], gYtestAudio[k][i])
-#i = i+1
-#
-#
-## In[10]:
-#
-## Gridsearch Nerual net.
-#gridResult = {}
-#
-#
-#for k in kLabels:
-#    
-#    startTime = datetime.now()
-#    label = k
-#    X = gXMagnitude[k].reshape(-1,gXMagnitude[k].shape[1])
-#    Y = gYMagnitude[k].reshape(-1,gYMagnitude[k].shape[1])
-#
-#
-#    batch_size = [10, 20, 40, 50, 60, 70]
-#    epochs = [50, 100, 150, 200]
-#    init_mode = ['zero','uniform','lecun_uniform', 'normal']
-#    activation = ['selu','relu','elu','tanh','sigmoid']
-#    weight_constraint = [1, 2, 3, 4, 5]
-#    dropout_rate = [0.0, 0.1, 0.2, 0.3, 0.4]
-#    neurons = [64, 128, 256]
-#
-#
-#    est = KerasRegressor(build_fn=DAE, verbose=1)
-#
-#
-#
-#    param_grid = dict(neurons=neurons, epochs=epochs)
-#
-#
-#
-#    grid = GridSearchCV(estimator=est, param_grid=param_grid, n_jobs=1, verbose=1)
-#    grid_result = grid.fit(X, X)
-#
-#
-#
-#    print("\n label - %s - Best: %f using %s" % (label, grid_result.best_score_, grid_result.best_params_))
-#    means = grid_result.cv_results_['mean_test_score']
-#    stds = grid_result.cv_results_['std_test_score']
-#    params = grid_result.cv_results_['params']
-#    for mean, stdev, param in zip(means, stds, params):
-#        print("%f (%f) with: %r" % (mean, stdev, param))
-#
-#
-#    gridResult[label] = ("\n label - %s - Best: %f using %s" % (label, grid_result.best_score_, grid_result.best_params_))
-#
-#    dumpPickle(gridResult, 'grid-'+label+'.pkl')
-#
-#    print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)))
-#
-#
-## In[11]:
-#
-## Print results gridSearch
-#
-#for k in kLabels:
-#    label = k
-#    print(gGridSearch[k][k])
-#    means = gGridSearch[k][k+'mean']
-#    stds = gGridSearch[k][k+'stds']
-#    params = gGridSearch[k][k+'params']
-#    for mean, stdev, param in zip(means, stds, params):
-#        print("%f (%f) with: %r" % (mean, stdev, param))
-#
-#
-#    
-#
-#
-# In[ ]:
+startTime = datetime.now()
 
+DataTrain = getAudioMagnitudePhase(gXtrainAug, gYtrainAug)
+
+gXtrainAudio = DataTrain[0]
+gYtrainAudio = DataTrain[1]
+gXtrainMagnitude = DataTrain[2]
+gYtrainMagnitude = DataTrain[3]
+gXtrainPhase = DataTrain[4]
+gYtrainPhase = DataTrain[5]
+
+print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
+    '{} Bass r/s tracks \n'.format(gYtrainPhase['b'].shape[0]),
+    '{} Guitar r/s tracks \n'.format(gYtrainPhase['g'].shape[0]),
+    '{} Keys r/s tracks \n'.format(gYtrainPhase['k'].shape[0]),
+    '{} Vocal r/s tracks \n'.format(gYtrainPhase['v'].shape[0])) 
+
+
+# In[8]:
+
+startTime = datetime.now()
+
+Data = getAudioMagnitudePhase(gRawPath, gStemPath)
+
+gXAudio = Data[0]
+gYAudio = Data[1]
+gXMagnitude = Data[2]
+gYMagnitude = Data[3]
+gXPhase = Data[4]
+gYPhase = Data[5]
+
+print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)),
+    '{} Bass r/s tracks \n'.format(gYPhase['b'].shape[0]),
+    '{} Guitar r/s tracks \n'.format(gYPhase['g'].shape[0]),
+    '{} Keys r/s tracks \n'.format(gYPhase['k'].shape[0]),
+    '{} Vocal r/s tracks \n'.format(gYPhase['v'].shape[0])) 
+
+
+# Gridsearch Nerual net.
+gridResult = {}
+
+
+for k in kLabels:
+   
+   startTime = datetime.now()
+   label = k
+   X = gXMagnitude[k].reshape(-1,gXMagnitude[k].shape[1])
+   Y = gYMagnitude[k].reshape(-1,gYMagnitude[k].shape[1])
+
+
+   batch_size = [10, 20, 40, 50, 60, 70]
+   epochs = [50, 100, 150, 200]
+   init_mode = ['zero','uniform','lecun_uniform', 'normal']
+   activation = ['selu','relu','elu','tanh','sigmoid']
+   weight_constraint = [1, 2, 3, 4, 5]
+   dropout_rate = [0.0, 0.1, 0.2, 0.3, 0.4]
+   neurons = [64, 128, 256]
+
+
+   est = KerasRegressor(build_fn=DAE, verbose=1)
+
+
+
+   param_grid = dict(neurons=neurons, epochs=epochs)
+
+
+
+   grid = GridSearchCV(estimator=est, param_grid=param_grid, n_jobs=1, verbose=1)
+   grid_result = grid.fit(X, X)
+
+
+
+   print("\n label - %s - Best: %f using %s" % (label, grid_result.best_score_, grid_result.best_params_))
+   means = grid_result.cv_results_['mean_test_score']
+   stds = grid_result.cv_results_['std_test_score']
+   params = grid_result.cv_results_['params']
+   for mean, stdev, param in zip(means, stds, params):
+       print("%f (%f) with: %r" % (mean, stdev, param))
+
+
+   gridResult[label] = ("\n label - %s - Best: %f using %s" % (label, grid_result.best_score_, grid_result.best_params_))
+
+   dumpPickle(gridResult, 'grid-'+label+'.pkl')
+
+   print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)))
+
+# Print results gridSearch
+
+for k in kLabels:
+   label = k
+   print(gGridSearch[k][k])
+   means = gGridSearch[k][k+'mean']
+   stds = gGridSearch[k][k+'stds']
+   params = gGridSearch[k][k+'params']
+   for mean, stdev, param in zip(means, stds, params):
+       print("%f (%f) with: %r" % (mean, stdev, param))
 
 
 def DAE(neurons=128, init_mode='lecun_normal', act_function='relu', dropout_rate=0.2, weight_constraint=0):
@@ -878,41 +812,7 @@ def DAE_R(neurons=128, init_mode='lecun_normal', act_function='relu', dropout_ra
     # Compile model
     model.compile(loss='mean_absolute_error', optimizer='adam', metrics=['mse'])
     return model
-# In[ ]:
 
-
-
-
-# In[14]:
-
-    
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[15]:
 
 for k in kLabels:
 
@@ -920,21 +820,20 @@ for k in kLabels:
     
     R = gYtrainMagnitude[k] / gXtrainMagnitude[k]
     X = gXtrainMagnitude[k].reshape(-1, gXtrainMagnitude[k].shape[1])
-    #Y = gYtrainMagnitude[k].reshape(-1, gYtrainMagnitude[k].shape[1])
+    Y = gYtrainMagnitude[k].reshape(-1, gYtrainMagnitude[k].shape[1])
     R = R.reshape(-1, R.shape[1])
     R = np.nan_to_num(R)
-    #model = DAE(neurons = 256)
-    #print('Training X-X-{}'.format(k))
-    #model.fit(X, X, batch_size=431, epochs=100, validation_split=0.0, shuffle='batch')
-    #nameModel = kPathFiles+'model_X-X_'+k+'.h5'
-    #model.save(nameModel) 
-    #print('Training X-Y-{}'.format(k))
-    #model.fit(X, Y, batch_size=431, epochs=100, validation_split=0.0, shuffle='batch')
-    #nameModel = kPathFiles+'model_X-Y_'+k+'.h5'
+    model = DAE(neurons = 256)
+    print('Training X-X-{}'.format(k))
+    model.fit(X, X, batch_size=431, epochs=100, validation_split=0.0, shuffle='batch')
+    nameModel = kPathFiles+'model_X-X_'+k+'.h5'
+    model.save(nameModel) 
+    print('Training X-Y-{}'.format(k))
+    model.fit(X, Y, batch_size=431, epochs=100, validation_split=0.0, shuffle='batch')
+    nameModel = kPathFiles+'model_X-Y_'+k+'.h5'
     nameWeights = kPathFiles+'model_X-Y_weights_'+k+'.h5'
-    #model.save(nameModel) 
-    #model.save_weights(nameWeights)
-    #del Y
+    model.save(nameModel) 
+    model.save_weights(nameWeights)
     model_R = DAE_R(neurons = 256)
     model_R.load_weights(nameWeights, by_name=True)
     print('Training X-R-{}'.format(k))
@@ -944,26 +843,6 @@ for k in kLabels:
     del X
     del R
     print('\nExecuted in: {} \n'.format(str(datetime.now() - startTime)))
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
 
 
 
