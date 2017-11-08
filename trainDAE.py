@@ -389,6 +389,9 @@ def load_sound_files(file_paths, sr = kSR, loudnessNorm = True):
         raw_sounds.append(X)
         
     return raw_sounds
+
+def spectogram(file_paths, audio_files):
+
     audio_files = get_name(audio_files)
              
     for f in range(len(audio_files)):
