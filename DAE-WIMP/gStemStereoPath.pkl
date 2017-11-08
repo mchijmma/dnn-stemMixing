@@ -1,0 +1,573 @@
+ccollections
+OrderedDict
+p0
+((lp1
+(lp2
+S'b'
+p3
+a(lp4
+S'./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Electric Bass/Stereo/Phoenix_SeanCaughlinsTheScartaglen_STEM_04.wav'
+p5
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_MoodyPlucks_STEM_05.wav'
+p6
+aS'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Electric Bass/Stereo/TheScarletBrand_LesFleursDuMal_STEM_02.wav'
+p7
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Electric Bass/Stereo/MusicDelta_Country1_STEM_02.wav'
+p8
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Electric Bass/Stereo/MusicDelta_Country2_STEM_02.wav'
+p9
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Electric Bass/Stereo/MusicDelta_Britpop_STEM_02.wav'
+p10
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Electric Bass/Stereo/SweetLights_YouLetMeDown_STEM_02.wav'
+p11
+aS'./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Electric Bass/Stereo/Phoenix_ColliersDaughter_STEM_04.wav'
+p12
+aS'./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Electric Bass/Stereo/BigTroubles_Phantom_STEM_01.wav'
+p13
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Electric Bass/Stereo/StevenClark_Bounty_STEM_02.wav'
+p14
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Electric Bass/Stereo/MusicDelta_Grunge_STEM_02.wav'
+p15
+aS'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Electric Bass/Stereo/AClassicEducation_NightOwl_STEM_01.wav'
+p16
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Electric Bass/Stereo/MusicDelta_Punk_STEM_02.wav'
+p17
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_PhaseTransition_STEM_03.wav'
+p18
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Electric Bass/Stereo/Lushlife_ToynbeeSuite_STEM_08.wav'
+p19
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Bass/Stereo/MusicDelta_LatinJazz_STEM_01.wav'
+p20
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Electric Bass/Stereo/MusicDelta_Hendrix_STEM_02.wav'
+p21
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_CaptainSky/TablaBreakbeatScience_CaptainSky_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_CaptainSky_STEM_02.wav'
+p22
+aS'./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Electric Bass/Stereo/AvaLuna_Waterduct_STEM_01.wav'
+p23
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Electric Bass/Stereo/MusicDelta_SpeedMetal_STEM_02.wav'
+p24
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Electric Bass/Stereo/MusicDelta_Rock_STEM_02.wav'
+p25
+aS'./Music/Data/MedleyDB/Audio/ChrisJacoby_PigsFoot/ChrisJacoby_PigsFoot_STEMS/Electric Bass/Stereo/ChrisJacoby_PigsFoot_STEM_03.wav'
+p26
+aS'./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Electric Bass/Stereo/PurlingHiss_Lolita_STEM_01.wav'
+p27
+aS'./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Electric Bass/Stereo/SecretMountains_HighHorse_STEM_01.wav'
+p28
+aS'./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency2/TheSoSoGlos_Emergency2_STEMS/Electric Bass/Stereo/TheSoSoGlos_Emergency2_STEM_08.wav'
+p29
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Electric Bass/Stereo/FamilyBand_Again_STEM_01.wav'
+p30
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Electric Bass/Stereo/MusicDelta_Rockabilly_STEM_02.wav'
+p31
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Electric Bass/Stereo/Auctioneer_OurFutureFaces_STEM_02.wav'
+p32
+aS'./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Electric Bass/Stereo/Meaxic_TakeAStep_STEM_01.wav'
+p33
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Electric Bass/Stereo/MusicDelta_Zeppelin_STEM_01.wav'
+p34
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Electric Bass/Stereo/KarimDouaidy_Yatora_STEM_04.wav'
+p35
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_Vger_STEM_03.wav'
+p36
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Electric Bass/Stereo/PortStWillow_StayEven_STEM_10.wav'
+p37
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_02.wav'
+p38
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite2/Lushlife_ToynbeeSuite2_STEMS/Electric Bass/Stereo/Lushlife_ToynbeeSuite2_STEM_16.wav'
+p39
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Electric Bass/Stereo/AimeeNorwich_Child_STEM_02.wav'
+p40
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Animoog/TablaBreakbeatScience_Animoog_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_Animoog_STEM_02.wav'
+p41
+aS'./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Electric Bass/Stereo/NightPanther_Fire_STEM_01.wav'
+p42
+aS'./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Electric Bass/Stereo/TheSoSoGlos_Emergency_STEM_01.wav'
+p43
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Bass/Stereo/MusicDelta_FusionJazz_STEM_02.wav'
+p44
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Electric Bass/Stereo/MusicDelta_Reggae_STEM_02.wav'
+p45
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Electric Bass/Stereo/TheDistricts_Vermont_STEM_01.wav'
+p46
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Electric Bass/Stereo/AlexanderRoss_VelvetCurtain_STEM_04.wav'
+p47
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_03.wav'
+p48
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Electric Bass/Stereo/MusicDelta_Shadows_STEM_01.wav'
+p49
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Electric Bass/Stereo/KarimDouaidy_Hopscotch_STEM_01.wav'
+p50
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Electric Bass/Stereo/MusicDelta_80sRock_STEM_02.wav'
+p51
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Electric Bass/Stereo/CelestialShore_DieForUs_STEM_03.wav'
+p52
+aS'./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Electric Bass/Stereo/HeladoNegro_MitadDelMundo_STEM_02.wav'
+p53
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Electric Bass/Stereo/Snowmine_Curfews_STEM_02.wav'
+p54
+aS'./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Electric Bass/Stereo/Creepoid_OldTree_STEM_02.wav'
+p55
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Electric Bass/Stereo/AlexanderRoss_GoodbyeBolero_STEM_04.wav'
+p56
+aS'./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Electric Bass/Stereo/FacesOnFilm_WaitingForGa_STEM_02.wav'
+p57
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Bass/Stereo/MusicDelta_FunkJazz_STEM_02.wav'
+p58
+aS'./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Electric Bass/Stereo/HopAlong_SisterCities_STEM_02.wav'
+p59
+aS'./Music/Data/MedleyDB/Audio/EthanHein_HarmonicaFigure/EthanHein_HarmonicaFigure_STEMS/Electric Bass/Stereo/EthanHein_HarmonicaFigure_STEM_03.wav'
+p60
+aS'./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Electric Bass/Stereo/StrandOfOaks_Spacestation_STEM_01.wav'
+p61
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Electric Bass/Stereo/MusicDelta_Gospel_STEM_02.wav'
+p62
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Electric Bass/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_01.wav'
+p63
+aS'./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Electric Bass/Stereo/Grants_PunchDrunk_STEM_02.wav'
+p64
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Electric Bass/Stereo/MusicDelta_Disco_STEM_02.wav'
+p65
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Electric Bass/Stereo/AimeeNorwich_Flying_STEM_03.wav'
+p66
+aS'./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Electric Bass/Stereo/HezekiahJones_BorrowedHeart_STEM_04.wav'
+p67
+aS'./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Electric Bass/Stereo/Meaxic_YouListen_STEM_04.wav'
+p68
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Electric Bass/Stereo/MusicDelta_Beatles_STEM_02.wav'
+p69
+aS'./Music/Data/MedleyDB/Audio/EthanHein_BluesForNofi/EthanHein_BluesForNofi_STEMS/Electric Bass/Stereo/EthanHein_BluesForNofi_STEM_02.wav'
+p70
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_Stella_STEM_04.wav'
+p71
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Electric Bass/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_01.wav'
+p72
+aaa(lp73
+S'g'
+p74
+a(lp75
+S'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Clean Electric Guitar/Stereo/TablaBreakbeatScience_MoodyPlucks_STEM_09.wav'
+p76
+aS'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Clean Electric Guitar/Stereo/TheScarletBrand_LesFleursDuMal_STEM_03.wav'
+p77
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Country2_STEM_03.wav'
+p78
+aS'./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Clean Electric Guitar/Stereo/CroqueMadame_Oil_STEM_02.wav'
+p79
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Britpop_STEM_06.wav'
+p80
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Clean Electric Guitar/Stereo/StevenClark_Bounty_STEM_01.wav'
+p81
+aS'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Clean Electric Guitar/Stereo/AClassicEducation_NightOwl_STEM_05.wav'
+p82
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Clean Electric Guitar/Stereo/Lushlife_ToynbeeSuite_STEM_11.wav'
+p83
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Rock_STEM_04.wav'
+p84
+aS'./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Clean Electric Guitar/Stereo/SecretMountains_HighHorse_STEM_05.wav'
+p85
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Clean Electric Guitar/Stereo/FamilyBand_Again_STEM_05.wav'
+p86
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Rockabilly_STEM_04.wav'
+p87
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Clean Electric Guitar/Stereo/LizNelson_Rainfall_STEM_05.wav'
+p88
+aS'./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Clean Electric Guitar/Stereo/Meaxic_TakeAStep_STEM_02.wav'
+p89
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Clean Electric Guitar/Stereo/TablaBreakbeatScience_Vger_STEM_06.wav'
+p90
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Clean Electric Guitar/Stereo/PortStWillow_StayEven_STEM_07.wav'
+p91
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Clean Electric Guitar/Stereo/Auctioneer_OurFutureFaces_STEM_05.wav'
+p92
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Clean Electric Guitar/Stereo/AimeeNorwich_Child_STEM_03.wav'
+p93
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Clean Electric Guitar/Stereo/TheDistricts_Vermont_STEM_07.wav'
+p94
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Clean Electric Guitar/Stereo/AlexanderRoss_VelvetCurtain_STEM_10.wav'
+p95
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Clean Electric Guitar/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_04.wav'
+p96
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Shadows_STEM_04.wav'
+p97
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Clean Electric Guitar/Stereo/CelestialShore_DieForUs_STEM_05.wav'
+p98
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Clean Electric Guitar/Stereo/Snowmine_Curfews_STEM_08.wav'
+p99
+aS'./Music/Data/MedleyDB/Audio/ChrisJacoby_BoothShotLincoln/ChrisJacoby_BoothShotLincoln_STEMS/Clean Electric Guitar/Stereo/ChrisJacoby_BoothShotLincoln_STEM_03.wav'
+p100
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Clean Electric Guitar/Stereo/AlexanderRoss_GoodbyeBolero_STEM_03.wav'
+p101
+aS'./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Clean Electric Guitar/Stereo/FacesOnFilm_WaitingForGa_STEM_05.wav'
+p102
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Reggae_STEM_03.wav'
+p103
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Gospel_STEM_03.wav'
+p104
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Clean Electric Guitar/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_05.wav'
+p105
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Disco_STEM_03.wav'
+p106
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Clean Electric Guitar/Stereo/AimeeNorwich_Flying_STEM_04.wav'
+p107
+aS'./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Clean Electric Guitar/Stereo/Meaxic_YouListen_STEM_05.wav'
+p108
+aS'./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Clean Electric Guitar/Stereo/CroqueMadame_Pilot_STEM_02.wav'
+p109
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Beatles_STEM_03.wav'
+p110
+aS'./Music/Data/MedleyDB/Audio/AmarLal_Rest/AmarLal_Rest_STEMS/Clean Electric Guitar/Stereo/AmarLal_Rest_STEM_01.wav'
+p111
+aS'./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Acoustic Guitar/Stereo/Phoenix_SeanCaughlinsTheScartaglen_STEM_01.wav'
+p112
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Acoustic Guitar/Stereo/MusicDelta_Country1_STEM_04.wav'
+p113
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Acoustic Guitar/Stereo/SweetLights_YouLetMeDown_STEM_01.wav'
+p114
+aS'./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Acoustic Guitar/Stereo/Phoenix_ColliersDaughter_STEM_01.wav'
+p115
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Acoustic Guitar/Stereo/LizNelson_Coldwar_STEM_01.wav'
+p116
+aS'./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_STEMS/Acoustic Guitar/Stereo/Phoenix_LarkOnTheStrandDrummondCastle_STEM_01.wav'
+p117
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Acoustic Guitar/Stereo/FamilyBand_Again_STEM_04.wav'
+p118
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Acoustic Guitar/Stereo/LizNelson_Rainfall_STEM_04.wav'
+p119
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Acoustic Guitar/Stereo/KarimDouaidy_Yatora_STEM_02.wav'
+p120
+aS'./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Acoustic Guitar/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_09.wav'
+p121
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Acoustic Guitar/Stereo/AimeeNorwich_Child_STEM_07.wav'
+p122
+aS'./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Acoustic Guitar/Stereo/TheSoSoGlos_Emergency_STEM_09.wav'
+p123
+aS'./Music/Data/MedleyDB/Audio/Phoenix_BrokenPledgeChicagoReel/Phoenix_BrokenPledgeChicagoReel_STEMS/Acoustic Guitar/Stereo/Phoenix_BrokenPledgeChicagoReel_STEM_01.wav'
+p124
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Acoustic Guitar/Stereo/AlexanderRoss_VelvetCurtain_STEM_01.wav'
+p125
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Acoustic Guitar/Stereo/KarimDouaidy_Hopscotch_STEM_06.wav'
+p126
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Acoustic Guitar/Stereo/AlexanderRoss_GoodbyeBolero_STEM_01.wav'
+p127
+aS'./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Acoustic Guitar/Stereo/FacesOnFilm_WaitingForGa_STEM_01.wav'
+p128
+aS'./Music/Data/MedleyDB/Audio/Phoenix_ElzicsFarewell/Phoenix_ElzicsFarewell_STEMS/Acoustic Guitar/Stereo/Phoenix_ElzicsFarewell_STEM_01.wav'
+p129
+aS'./Music/Data/MedleyDB/Audio/AmarLal_SpringDay1/AmarLal_SpringDay1_STEMS/Acoustic Guitar/Stereo/AmarLal_SpringDay1_STEM_01.wav'
+p130
+aS'./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Acoustic Guitar/Stereo/HezekiahJones_BorrowedHeart_STEM_01.wav'
+p131
+aS'./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Acoustic Guitar/Stereo/Meaxic_YouListen_STEM_03.wav'
+p132
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Acoustic Guitar/Stereo/MusicDelta_Beatles_STEM_05.wav'
+p133
+aS'./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Acoustic Guitar/Stereo/HopAlong_SisterCities_STEM_01.wav'
+p134
+aS'./Music/Data/MedleyDB/Audio/Phoenix_ScotchMorris/Phoenix_ScotchMorris_STEMS/Acoustic Guitar/Stereo/Phoenix_ScotchMorris_STEM_01.wav'
+p135
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Punk_STEM_03.wav'
+p136
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Hendrix_STEM_03.wav'
+p137
+aS'./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Distorted Electric Guitar/Stereo/EthanHein_GirlOnABridge_STEM_05.wav'
+p138
+aS'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Distorted Electric Guitar/Stereo/TheScarletBrand_LesFleursDuMal_STEM_05.wav'
+p139
+aS'./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Distorted Electric Guitar/Stereo/AvaLuna_Waterduct_STEM_05.wav'
+p140
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_SpeedMetal_STEM_04.wav'
+p141
+aS'./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Distorted Electric Guitar/Stereo/TheSoSoGlos_Emergency_STEM_04.wav'
+p142
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Britpop_STEM_03.wav'
+p143
+aS'./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Distorted Electric Guitar/Stereo/PurlingHiss_Lolita_STEM_03.wav'
+p144
+aS'./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Distorted Electric Guitar/Stereo/Creepoid_OldTree_STEM_05.wav'
+p145
+aS'./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Distorted Electric Guitar/Stereo/Meaxic_TakeAStep_STEM_03.wav'
+p146
+aS'./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Distorted Electric Guitar/Stereo/BigTroubles_Phantom_STEM_03.wav'
+p147
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Distorted Electric Guitar/Stereo/FamilyBand_Again_STEM_06.wav'
+p148
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Rockabilly_STEM_03.wav'
+p149
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_80sRock_STEM_03.wav'
+p150
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Grunge_STEM_04.wav'
+p151
+aS'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Distorted Electric Guitar/Stereo/AClassicEducation_NightOwl_STEM_04.wav'
+p152
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Zeppelin_STEM_04.wav'
+p153
+aS'./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Distorted Electric Guitar/Stereo/HopAlong_SisterCities_STEM_06.wav'
+p154
+aS'./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Distorted Electric Guitar/Stereo/Meaxic_YouListen_STEM_06.wav'
+p155
+aS'./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Banjo/Stereo/HezekiahJones_BorrowedHeart_STEM_03.wav'
+p156
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Banjo/Stereo/Auctioneer_OurFutureFaces_STEM_01.wav'
+p157
+aaa(lp158
+S'v'
+p159
+a(lp160
+S'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Male Singer/Stereo/TheScarletBrand_LesFleursDuMal_STEM_08.wav'
+p161
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Male Singer/Stereo/MusicDelta_Country1_STEM_05.wav'
+p162
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Male Singer/Stereo/SweetLights_YouLetMeDown_STEM_08.wav'
+p163
+aS'./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Male Singer/Stereo/BigTroubles_Phantom_STEM_04.wav'
+p164
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Male Singer/Stereo/StevenClark_Bounty_STEM_08.wav'
+p165
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Male Singer/Stereo/MusicDelta_Grunge_STEM_05.wav'
+p166
+aS'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Male Singer/Stereo/AClassicEducation_NightOwl_STEM_13.wav'
+p167
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Male Singer/Stereo/MusicDelta_Punk_STEM_04.wav'
+p168
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Male Singer/Stereo/MusicDelta_Hendrix_STEM_04.wav'
+p169
+aS'./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Male Singer/Stereo/AvaLuna_Waterduct_STEM_08.wav'
+p170
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Male Singer/Stereo/MusicDelta_Rock_STEM_05.wav'
+p171
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Male Singer/Stereo/Auctioneer_OurFutureFaces_STEM_08.wav'
+p172
+aS'./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Male Singer/Stereo/Meaxic_TakeAStep_STEM_04.wav'
+p173
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Male Singer/Stereo/MatthewEntwistle_DontYouEver_STEM_07.wav'
+p174
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Male Singer/Stereo/PortStWillow_StayEven_STEM_08.wav'
+p175
+aS'./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Male Singer/Stereo/NightPanther_Fire_STEM_07.wav'
+p176
+aS'./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Male Singer/Stereo/TheSoSoGlos_Emergency_STEM_05.wav'
+p177
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Male Singer/Stereo/BrandonWebster_YesSirICanFly_STEM_02.wav'
+p178
+aS'./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Male Singer/Stereo/Debussy_LenfantProdigue_STEM_01.wav'
+p179
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Male Singer/Stereo/AlexanderRoss_VelvetCurtain_STEM_06.wav'
+p180
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Male Singer/Stereo/TheDistricts_Vermont_STEM_05.wav'
+p181
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Male Singer/Stereo/MusicDelta_80sRock_STEM_04.wav'
+p182
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Male Singer/Stereo/CelestialShore_DieForUs_STEM_01.wav'
+p183
+aS'./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Male Singer/Stereo/HeladoNegro_MitadDelMundo_STEM_08.wav'
+p184
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Male Singer/Stereo/Snowmine_Curfews_STEM_03.wav'
+p185
+aS'./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Male Singer/Stereo/Creepoid_OldTree_STEM_08.wav'
+p186
+aS'./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Male Singer/Stereo/AlexanderRoss_GoodbyeBolero_STEM_06.wav'
+p187
+aS'./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Male Singer/Stereo/FacesOnFilm_WaitingForGa_STEM_03.wav'
+p188
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Male Singer/Stereo/MusicDelta_Reggae_STEM_04.wav'
+p189
+aS'./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Male Singer/Stereo/StrandOfOaks_Spacestation_STEM_04.wav'
+p190
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Male Singer/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_09.wav'
+p191
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Male Singer/Stereo/MusicDelta_Disco_STEM_04.wav'
+p192
+aS'./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Male Singer/Stereo/HezekiahJones_BorrowedHeart_STEM_10.wav'
+p193
+aS'./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Male Singer/Stereo/Meaxic_YouListen_STEM_01.wav'
+p194
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Male Singer/Stereo/MusicDelta_Beatles_STEM_07.wav'
+p195
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Male Singer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_06.wav'
+p196
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Female Singer/Stereo/BrandonWebster_DontHearAThing_STEM_02.wav'
+p197
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Female Singer/Stereo/MusicDelta_Country2_STEM_05.wav'
+p198
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Female Singer/Stereo/MusicDelta_Britpop_STEM_07.wav'
+p199
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_TheBadGuys_STEM_02.wav'
+p200
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Female Singer/Stereo/LizNelson_Coldwar_STEM_02.wav'
+p201
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_Boys_STEM_06.wav'
+p202
+aS'./Music/Data/MedleyDB/Audio/LizNelson_ImComingHome/LizNelson_ImComingHome_STEMS/Female Singer/Stereo/LizNelson_ImComingHome_STEM_01.wav'
+p203
+aS'./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Female Singer/Stereo/SecretMountains_HighHorse_STEM_09.wav'
+p204
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Female Singer/Stereo/FamilyBand_Again_STEM_09.wav'
+p205
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Female Singer/Stereo/MusicDelta_Rockabilly_STEM_05.wav'
+p206
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Female Singer/Stereo/LizNelson_Rainfall_STEM_01.wav'
+p207
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_05.wav'
+p208
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Female Singer/Stereo/AimeeNorwich_Child_STEM_04.wav'
+p209
+aS'./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Female Singer/Stereo/Wolf_DieBekherte_STEM_01.wav'
+p210
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_08.wav'
+p211
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Female Singer/Stereo/MatthewEntwistle_Lontano_STEM_02.wav'
+p212
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Female Singer/Stereo/CelestialShore_DieForUs_STEM_02.wav'
+p213
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Female Singer/Stereo/MusicDelta_Gospel_STEM_06.wav'
+p214
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Female Singer/Stereo/MusicDelta_Beatles_STEM_08.wav'
+p215
+aS'./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Female Singer/Stereo/HopAlong_SisterCities_STEM_07.wav'
+p216
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_Stella_STEM_07.wav'
+p217
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Female Singer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_08.wav'
+p218
+aS'./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Male Rapper/Stereo/Grants_PunchDrunk_STEM_03.wav'
+p219
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Male Rapper/Stereo/Lushlife_ToynbeeSuite_STEM_26.wav'
+p220
+aaa(lp221
+S'k'
+p222
+a(lp223
+S'./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Piano/Stereo/CroqueMadame_Oil_STEM_01.wav'
+p224
+aS'./Music/Data/MedleyDB/Audio/JoelHelander_Definition/JoelHelander_Definition_STEMS/Piano/Stereo/JoelHelander_Definition_STEM_01.wav'
+p225
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Piano/Stereo/StevenClark_Bounty_STEM_09.wav'
+p226
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Piano/Stereo/ClaraBerryAndWooldog_TheBadGuys_STEM_01.wav'
+p227
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Piano/Stereo/BrandonWebster_DontHearAThing_STEM_03.wav'
+p228
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Piano/Stereo/ClaraBerryAndWooldog_Boys_STEM_05.wav'
+p229
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/Piano/Stereo/MatthewEntwistle_AnEveningWithOliver_STEM_11.wav'
+p230
+aS'./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Piano/Stereo/EthanHein_GirlOnABridge_STEM_02.wav'
+p231
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Piano/Stereo/SweetLights_YouLetMeDown_STEM_09.wav'
+p232
+aS'./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Piano/Stereo/SecretMountains_HighHorse_STEM_07.wav'
+p233
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Piano/Stereo/Lushlife_ToynbeeSuite_STEM_23.wav'
+p234
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Piano/Stereo/Auctioneer_OurFutureFaces_STEM_10.wav'
+p235
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Piano/Stereo/MatthewEntwistle_DontYouEver_STEM_02.wav'
+p236
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Piano/Stereo/KarimDouaidy_Yatora_STEM_05.wav'
+p237
+aS'./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Piano/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_03.wav'
+p238
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Piano/Stereo/MatthewEntwistle_TheArch_STEM_18.wav'
+p239
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Piano/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_03.wav'
+p240
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Piano/Stereo/AimeeNorwich_Child_STEM_06.wav'
+p241
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_STEMS/Piano/Stereo/MatthewEntwistle_FairerHopes_STEM_13.wav'
+p242
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Piano/Stereo/BrandonWebster_YesSirICanFly_STEM_01.wav'
+p243
+aS'./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Piano/Stereo/Wolf_DieBekherte_STEM_02.wav'
+p244
+aS'./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Piano/Stereo/Debussy_LenfantProdigue_STEM_02.wav'
+p245
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Piano/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_06.wav'
+p246
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Piano/Stereo/KarimDouaidy_Hopscotch_STEM_09.wav'
+p247
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_BebopJazz/MusicDelta_BebopJazz_STEMS/Piano/Stereo/MusicDelta_BebopJazz_STEM_03.wav'
+p248
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Piano/Stereo/MatthewEntwistle_Lontano_STEM_01.wav'
+p249
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Piano/Stereo/PortStWillow_StayEven_STEM_09.wav'
+p250
+aS'./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_STEMS/Piano/Stereo/MichaelKropf_AllGoodThings_STEM_01.wav'
+p251
+aS'./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Piano/Stereo/StrandOfOaks_Spacestation_STEM_06.wav'
+p252
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_ImpressionsOfSaturn/MatthewEntwistle_ImpressionsOfSaturn_STEMS/Piano/Stereo/MatthewEntwistle_ImpressionsOfSaturn_STEM_06.wav'
+p253
+aS'./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Piano/Stereo/Grants_PunchDrunk_STEM_09.wav'
+p254
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Piano/Stereo/AimeeNorwich_Flying_STEM_09.wav'
+p255
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_ModalJazz/MusicDelta_ModalJazz_STEMS/Piano/Stereo/MusicDelta_ModalJazz_STEM_03.wav'
+p256
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheFlaxenField/MatthewEntwistle_TheFlaxenField_STEMS/Piano/Stereo/MatthewEntwistle_TheFlaxenField_STEM_03.wav'
+p257
+aS'./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Piano/Stereo/CroqueMadame_Pilot_STEM_01.wav'
+p258
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_CoolJazz/MusicDelta_CoolJazz_STEMS/Piano/Stereo/MusicDelta_CoolJazz_STEM_03.wav'
+p259
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Piano/Stereo/ClaraBerryAndWooldog_Stella_STEM_05.wav'
+p260
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_SwingJazz/MusicDelta_SwingJazz_STEMS/Piano/Stereo/MusicDelta_SwingJazz_STEM_03.wav'
+p261
+aS'./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Synthesizer/Stereo/FacesOnFilm_WaitingForGa_STEM_07.wav'
+p262
+aS'./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Synthesizer/Stereo/EthanHein_GirlOnABridge_STEM_03.wav'
+p263
+aS'./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Synthesizer/Stereo/StrandOfOaks_Spacestation_STEM_07.wav'
+p264
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Synthesizer/Stereo/MusicDelta_FusionJazz_STEM_04.wav'
+p265
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Synthesizer/Stereo/SweetLights_YouLetMeDown_STEM_10.wav'
+p266
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Synthesizer/Stereo/TheDistricts_Vermont_STEM_04.wav'
+p267
+aS'./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Synthesizer/Stereo/SecretMountains_HighHorse_STEM_08.wav'
+p268
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Synthesizer/Stereo/CelestialShore_DieForUs_STEM_04.wav'
+p269
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Synthesizer/Stereo/StevenClark_Bounty_STEM_10.wav'
+p270
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Synthesizer/Stereo/MatthewEntwistle_TheArch_STEM_03.wav'
+p271
+aS'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Synthesizer/Stereo/AClassicEducation_NightOwl_STEM_09.wav'
+p272
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MiloVsMongo/TablaBreakbeatScience_MiloVsMongo_STEMS/Synthesizer/Stereo/TablaBreakbeatScience_MiloVsMongo_STEM_06.wav'
+p273
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Synthesizer/Stereo/Snowmine_Curfews_STEM_09.wav'
+p274
+aS'./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Synthesizer/Stereo/HopAlong_SisterCities_STEM_05.wav'
+p275
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Synthesizer/Stereo/ClaraBerryAndWooldog_Stella_STEM_06.wav'
+p276
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Synthesizer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_09.wav'
+p277
+aS'./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Synthesizer/Stereo/TablaBreakbeatScience_PhaseTransition_STEM_06.wav'
+p278
+aS'./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Tack Piano/Stereo/StrandOfOaks_Spacestation_STEM_08.wav'
+p279
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Tack Piano/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_10.wav'
+p280
+aS'./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Tack Piano/Stereo/SweetLights_YouLetMeDown_STEM_11.wav'
+p281
+aS'./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Tack Piano/Stereo/CelestialShore_DieForUs_STEM_07.wav'
+p282
+aS'./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Tack Piano/Stereo/HeladoNegro_MitadDelMundo_STEM_10.wav'
+p283
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Tack Piano/Stereo/Snowmine_Curfews_STEM_11.wav'
+p284
+aS'./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Tack Piano/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_02.wav'
+p285
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Piano/Stereo/MusicDelta_LatinJazz_STEM_03.wav'
+p286
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Piano/Stereo/MusicDelta_FunkJazz_STEM_03.wav'
+p287
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Piano/Stereo/MusicDelta_FusionJazz_STEM_03.wav'
+p288
+aaatp289
+Rp290
+.

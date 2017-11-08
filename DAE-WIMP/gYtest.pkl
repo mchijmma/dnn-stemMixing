@@ -1,0 +1,81 @@
+ccollections
+OrderedDict
+p0
+((lp1
+(lp2
+S'b'
+p3
+a(lp4
+S'./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Electric Bass/Mono/AvaLuna_Waterduct_STEM_01.wav'
+p5
+aS'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Electric Bass/Mono/TheScarletBrand_LesFleursDuMal_STEM_02.wav'
+p6
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Electric Bass/Mono/DreamersOfTheGhetto_HeavyLove_STEM_01.wav'
+p7
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Electric Bass/Mono/Auctioneer_OurFutureFaces_STEM_02.wav'
+p8
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Electric Bass/Mono/KarimDouaidy_Hopscotch_STEM_01.wav'
+p9
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Electric Bass/Mono/PortStWillow_StayEven_STEM_10.wav'
+p10
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Electric Bass/Mono/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_02.wav'
+p11
+aaa(lp12
+S'g'
+p13
+a(lp14
+S'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Distorted Electric Guitar/Mono/AClassicEducation_NightOwl_STEM_04.wav'
+p15
+aS'./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Acoustic Guitar/Mono/Phoenix_SeanCaughlinsTheScartaglen_STEM_01.wav'
+p16
+aS'./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Distorted Electric Guitar/Mono/EthanHein_GirlOnABridge_STEM_05.wav'
+p17
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Clean Electric Guitar/Mono/AimeeNorwich_Child_STEM_03.wav'
+p18
+aS'./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_STEMS/Acoustic Guitar/Mono/Phoenix_LarkOnTheStrandDrummondCastle_STEM_01.wav'
+p19
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Clean Electric Guitar/Mono/LizNelson_Rainfall_STEM_05.wav'
+p20
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Clean Electric Guitar/Mono/MusicDelta_Reggae_STEM_03.wav'
+p21
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Clean Electric Guitar/Mono/PortStWillow_StayEven_STEM_07.wav'
+p22
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Acoustic Guitar/Mono/LizNelson_Coldwar_STEM_01.wav'
+p23
+aaa(lp24
+S'v'
+p25
+a(lp26
+S'./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Male Singer/Mono/MusicDelta_Disco_STEM_04.wav'
+p27
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Male Singer/Mono/TheDistricts_Vermont_STEM_05.wav'
+p28
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Male Rapper/Mono/Lushlife_ToynbeeSuite_STEM_26.wav'
+p29
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Male Singer/Mono/BrandonWebster_YesSirICanFly_STEM_02.wav'
+p30
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Male Singer/Mono/MusicDelta_Rock_STEM_05.wav'
+p31
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Female Singer/Mono/FamilyBand_Again_STEM_09.wav'
+p32
+aaa(lp33
+S'k'
+p34
+a(lp35
+S'./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_STEMS/Piano/Mono/MichaelKropf_AllGoodThings_STEM_01.wav'
+p36
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Piano/Mono/StevenClark_Bounty_STEM_09.wav'
+p37
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Synthesizer/Mono/MusicDelta_FusionJazz_STEM_04.wav'
+p38
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Tack Piano/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_10.wav'
+p39
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_STEMS/Piano/Mono/MatthewEntwistle_FairerHopes_STEM_13.wav'
+p40
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Synthesizer/Mono/Snowmine_Curfews_STEM_09.wav'
+p41
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Synthesizer/Mono/ClaraBerryAndWooldog_Stella_STEM_06.wav'
+p42
+aaatp43
+Rp44
+.

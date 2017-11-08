@@ -1,0 +1,2099 @@
+
+track:
+    AClassicEducation_NightOwl:
+        clean electric guitar:
+            trim_at(s): 77
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Clean Electric Guitar/AClassicEducation_NightOwl_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Clean Electric Guitar/Mono/AClassicEducation_NightOwl_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Clean Electric Guitar/Stereo/AClassicEducation_NightOwl_STEM_05.wav"
+        distorted electric guitar:
+            trim_at(s): 123
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Distorted Electric Guitar/AClassicEducation_NightOwl_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Distorted Electric Guitar/Mono/AClassicEducation_NightOwl_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Distorted Electric Guitar/Stereo/AClassicEducation_NightOwl_STEM_04.wav"
+        electric bass:
+            trim_at(s): 39
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Electric Bass/AClassicEducation_NightOwl_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Electric Bass/Mono/AClassicEducation_NightOwl_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Electric Bass/Stereo/AClassicEducation_NightOwl_STEM_01.wav"
+        male singer:
+            trim_at(s): 138
+            id_raw: "03"
+            id_stem: "13"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Male Singer/AClassicEducation_NightOwl_RAW_13_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Male Singer/Mono/AClassicEducation_NightOwl_STEM_13.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Male Singer/Stereo/AClassicEducation_NightOwl_STEM_13.wav"
+        synthesizer:
+            trim_at(s): 137
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Synthesizer/AClassicEducation_NightOwl_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Synthesizer/Mono/AClassicEducation_NightOwl_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Synthesizer/Stereo/AClassicEducation_NightOwl_STEM_09.wav"
+        vocalists:
+            trim_at(s): 85
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Vocalists/AClassicEducation_NightOwl_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Vocalists/Mono/AClassicEducation_NightOwl_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_STEMS/Vocalists/Stereo/AClassicEducation_NightOwl_STEM_10.wav"
+    AimeeNorwich_Child:
+        acoustic guitar:
+            trim_at(s): 61
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Acoustic Guitar/AimeeNorwich_Child_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Acoustic Guitar/Mono/AimeeNorwich_Child_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Acoustic Guitar/Stereo/AimeeNorwich_Child_STEM_07.wav"
+        clean electric guitar:
+            trim_at(s): 124
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Clean Electric Guitar/AimeeNorwich_Child_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Clean Electric Guitar/Mono/AimeeNorwich_Child_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Clean Electric Guitar/Stereo/AimeeNorwich_Child_STEM_03.wav"
+        electric bass:
+            trim_at(s): 154
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Electric Bass/AimeeNorwich_Child_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Electric Bass/Mono/AimeeNorwich_Child_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Electric Bass/Stereo/AimeeNorwich_Child_STEM_02.wav"
+        female singer:
+            trim_at(s): 102
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Female Singer/AimeeNorwich_Child_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Female Singer/Mono/AimeeNorwich_Child_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Female Singer/Stereo/AimeeNorwich_Child_STEM_04.wav"
+        piano:
+            trim_at(s): 126
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Piano/AimeeNorwich_Child_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Piano/Mono/AimeeNorwich_Child_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_STEMS/Piano/Stereo/AimeeNorwich_Child_STEM_06.wav"
+    AimeeNorwich_Flying:
+        clean electric guitar:
+            trim_at(s): 177
+            id_raw: "02"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_RAW/Clean Electric Guitar/AimeeNorwich_Flying_RAW_04_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Clean Electric Guitar/Mono/AimeeNorwich_Flying_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Clean Electric Guitar/Stereo/AimeeNorwich_Flying_STEM_04.wav"
+        electric bass:
+            trim_at(s): 118
+            id_raw: "03"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_RAW/Electric Bass/AimeeNorwich_Flying_RAW_03_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Electric Bass/Mono/AimeeNorwich_Flying_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Electric Bass/Stereo/AimeeNorwich_Flying_STEM_03.wav"
+        piano:
+            trim_at(s): 144
+            id_raw: "03"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_RAW/Piano/AimeeNorwich_Flying_RAW_09_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Piano/Mono/AimeeNorwich_Flying_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AimeeNorwich_Flying/AimeeNorwich_Flying_STEMS/Piano/Stereo/AimeeNorwich_Flying_STEM_09.wav"
+    AlexanderRoss_GoodbyeBolero:
+        acoustic guitar:
+            trim_at(s): 252
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_RAW/Acoustic Guitar/AlexanderRoss_GoodbyeBolero_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Acoustic Guitar/Mono/AlexanderRoss_GoodbyeBolero_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Acoustic Guitar/Stereo/AlexanderRoss_GoodbyeBolero_STEM_01.wav"
+        clean electric guitar:
+            trim_at(s): 211
+            id_raw: "02"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_RAW/Clean Electric Guitar/AlexanderRoss_GoodbyeBolero_RAW_03_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Clean Electric Guitar/Mono/AlexanderRoss_GoodbyeBolero_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Clean Electric Guitar/Stereo/AlexanderRoss_GoodbyeBolero_STEM_03.wav"
+        electric bass:
+            trim_at(s): 268
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_RAW/Electric Bass/AlexanderRoss_GoodbyeBolero_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Electric Bass/Mono/AlexanderRoss_GoodbyeBolero_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Electric Bass/Stereo/AlexanderRoss_GoodbyeBolero_STEM_04.wav"
+        male singer:
+            trim_at(s): 259
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_RAW/Male Singer/AlexanderRoss_GoodbyeBolero_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Male Singer/Mono/AlexanderRoss_GoodbyeBolero_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_GoodbyeBolero/AlexanderRoss_GoodbyeBolero_STEMS/Male Singer/Stereo/AlexanderRoss_GoodbyeBolero_STEM_06.wav"
+    AlexanderRoss_VelvetCurtain:
+        acoustic guitar:
+            trim_at(s): 472
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_RAW/Acoustic Guitar/AlexanderRoss_VelvetCurtain_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Acoustic Guitar/Mono/AlexanderRoss_VelvetCurtain_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Acoustic Guitar/Stereo/AlexanderRoss_VelvetCurtain_STEM_01.wav"
+        clean electric guitar:
+            trim_at(s): 470
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_RAW/Clean Electric Guitar/AlexanderRoss_VelvetCurtain_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Clean Electric Guitar/Mono/AlexanderRoss_VelvetCurtain_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Clean Electric Guitar/Stereo/AlexanderRoss_VelvetCurtain_STEM_10.wav"
+        electric bass:
+            trim_at(s): 453
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_RAW/Electric Bass/AlexanderRoss_VelvetCurtain_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Electric Bass/Mono/AlexanderRoss_VelvetCurtain_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Electric Bass/Stereo/AlexanderRoss_VelvetCurtain_STEM_04.wav"
+        male singer:
+            trim_at(s): 437
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_RAW/Male Singer/AlexanderRoss_VelvetCurtain_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Male Singer/Mono/AlexanderRoss_VelvetCurtain_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Male Singer/Stereo/AlexanderRoss_VelvetCurtain_STEM_06.wav"
+        vocalists:
+            trim_at(s): 471
+            id_raw: "03"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_RAW/Vocalists/AlexanderRoss_VelvetCurtain_RAW_09_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Vocalists/Mono/AlexanderRoss_VelvetCurtain_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AlexanderRoss_VelvetCurtain/AlexanderRoss_VelvetCurtain_STEMS/Vocalists/Stereo/AlexanderRoss_VelvetCurtain_STEM_09.wav"
+    AmarLal_Rest:
+        clean electric guitar:
+            trim_at(s): 90
+            id_raw: "04"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AmarLal_Rest/AmarLal_Rest_RAW/Clean Electric Guitar/AmarLal_Rest_RAW_01_04.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AmarLal_Rest/AmarLal_Rest_STEMS/Clean Electric Guitar/Mono/AmarLal_Rest_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AmarLal_Rest/AmarLal_Rest_STEMS/Clean Electric Guitar/Stereo/AmarLal_Rest_STEM_01.wav"
+    AmarLal_SpringDay1:
+        acoustic guitar:
+            trim_at(s): 118
+            id_raw: "08"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AmarLal_SpringDay1/AmarLal_SpringDay1_RAW/Acoustic Guitar/AmarLal_SpringDay1_RAW_01_08.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AmarLal_SpringDay1/AmarLal_SpringDay1_STEMS/Acoustic Guitar/Mono/AmarLal_SpringDay1_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AmarLal_SpringDay1/AmarLal_SpringDay1_STEMS/Acoustic Guitar/Stereo/AmarLal_SpringDay1_STEM_01.wav"
+    Auctioneer_OurFutureFaces:
+        banjo:
+            trim_at(s): 148
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Banjo/Auctioneer_OurFutureFaces_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Banjo/Mono/Auctioneer_OurFutureFaces_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Banjo/Stereo/Auctioneer_OurFutureFaces_STEM_01.wav"
+        clean electric guitar:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Clean Electric Guitar/Auctioneer_OurFutureFaces_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Clean Electric Guitar/Mono/Auctioneer_OurFutureFaces_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Clean Electric Guitar/Stereo/Auctioneer_OurFutureFaces_STEM_05.wav"
+        electric bass:
+            trim_at(s): 57
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Electric Bass/Auctioneer_OurFutureFaces_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Electric Bass/Mono/Auctioneer_OurFutureFaces_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Electric Bass/Stereo/Auctioneer_OurFutureFaces_STEM_02.wav"
+        male singer:
+            trim_at(s): 97
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Male Singer/Auctioneer_OurFutureFaces_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Male Singer/Mono/Auctioneer_OurFutureFaces_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Male Singer/Stereo/Auctioneer_OurFutureFaces_STEM_08.wav"
+        piano:
+            trim_at(s): 67
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Piano/Auctioneer_OurFutureFaces_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Piano/Mono/Auctioneer_OurFutureFaces_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_STEMS/Piano/Stereo/Auctioneer_OurFutureFaces_STEM_10.wav"
+    AvaLuna_Waterduct:
+        distorted electric guitar:
+            trim_at(s): 184
+            id_raw: "02"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_RAW/Distorted Electric Guitar/AvaLuna_Waterduct_RAW_05_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Distorted Electric Guitar/Mono/AvaLuna_Waterduct_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Distorted Electric Guitar/Stereo/AvaLuna_Waterduct_STEM_05.wav"
+        electric bass:
+            trim_at(s): 183
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_RAW/Electric Bass/AvaLuna_Waterduct_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Electric Bass/Mono/AvaLuna_Waterduct_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Electric Bass/Stereo/AvaLuna_Waterduct_STEM_01.wav"
+        male singer:
+            trim_at(s): 174
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_RAW/Male Singer/AvaLuna_Waterduct_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Male Singer/Mono/AvaLuna_Waterduct_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Male Singer/Stereo/AvaLuna_Waterduct_STEM_08.wav"
+        vocalists:
+            trim_at(s): 175
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_RAW/Vocalists/AvaLuna_Waterduct_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Vocalists/Mono/AvaLuna_Waterduct_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_STEMS/Vocalists/Stereo/AvaLuna_Waterduct_STEM_03.wav"
+    BigTroubles_Phantom:
+        distorted electric guitar:
+            trim_at(s): 115
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_RAW/Distorted Electric Guitar/BigTroubles_Phantom_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Distorted Electric Guitar/Mono/BigTroubles_Phantom_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Distorted Electric Guitar/Stereo/BigTroubles_Phantom_STEM_03.wav"
+        electric bass:
+            trim_at(s): 123
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_RAW/Electric Bass/BigTroubles_Phantom_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Electric Bass/Mono/BigTroubles_Phantom_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Electric Bass/Stereo/BigTroubles_Phantom_STEM_01.wav"
+        male singer:
+            trim_at(s): 36
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_RAW/Male Singer/BigTroubles_Phantom_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Male Singer/Mono/BigTroubles_Phantom_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BigTroubles_Phantom/BigTroubles_Phantom_STEMS/Male Singer/Stereo/BigTroubles_Phantom_STEM_04.wav"
+    BrandonWebster_DontHearAThing:
+        female singer:
+            trim_at(s): 153
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_RAW/Female Singer/BrandonWebster_DontHearAThing_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Female Singer/Mono/BrandonWebster_DontHearAThing_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Female Singer/Stereo/BrandonWebster_DontHearAThing_STEM_02.wav"
+        piano:
+            trim_at(s): 14
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_RAW/Piano/BrandonWebster_DontHearAThing_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Piano/Mono/BrandonWebster_DontHearAThing_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BrandonWebster_DontHearAThing/BrandonWebster_DontHearAThing_STEMS/Piano/Stereo/BrandonWebster_DontHearAThing_STEM_03.wav"
+    BrandonWebster_YesSirICanFly:
+        male singer:
+            trim_at(s): 90
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_RAW/Male Singer/BrandonWebster_YesSirICanFly_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Male Singer/Mono/BrandonWebster_YesSirICanFly_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Male Singer/Stereo/BrandonWebster_YesSirICanFly_STEM_02.wav"
+        piano:
+            trim_at(s): 8
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_RAW/Piano/BrandonWebster_YesSirICanFly_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Piano/Mono/BrandonWebster_YesSirICanFly_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_STEMS/Piano/Stereo/BrandonWebster_YesSirICanFly_STEM_01.wav"
+    CelestialShore_DieForUs:
+        clean electric guitar:
+            trim_at(s): 259
+            id_raw: "02"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Clean Electric Guitar/CelestialShore_DieForUs_RAW_05_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Clean Electric Guitar/Mono/CelestialShore_DieForUs_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Clean Electric Guitar/Stereo/CelestialShore_DieForUs_STEM_05.wav"
+        electric bass:
+            trim_at(s): 161
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Electric Bass/CelestialShore_DieForUs_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Electric Bass/Mono/CelestialShore_DieForUs_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Electric Bass/Stereo/CelestialShore_DieForUs_STEM_03.wav"
+        female singer:
+            trim_at(s): 132
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Female Singer/CelestialShore_DieForUs_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Female Singer/Mono/CelestialShore_DieForUs_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Female Singer/Stereo/CelestialShore_DieForUs_STEM_02.wav"
+        male singer:
+            trim_at(s): 125
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Male Singer/CelestialShore_DieForUs_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Male Singer/Mono/CelestialShore_DieForUs_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Male Singer/Stereo/CelestialShore_DieForUs_STEM_01.wav"
+        synthesizer:
+            trim_at(s): 83
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Synthesizer/CelestialShore_DieForUs_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Synthesizer/Mono/CelestialShore_DieForUs_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Synthesizer/Stereo/CelestialShore_DieForUs_STEM_04.wav"
+        tack piano:
+            trim_at(s): 78
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_RAW/Tack Piano/CelestialShore_DieForUs_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Tack Piano/Mono/CelestialShore_DieForUs_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CelestialShore_DieForUs/CelestialShore_DieForUs_STEMS/Tack Piano/Stereo/CelestialShore_DieForUs_STEM_07.wav"
+    ChrisJacoby_BoothShotLincoln:
+        clean electric guitar:
+            trim_at(s): 76
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/ChrisJacoby_BoothShotLincoln/ChrisJacoby_BoothShotLincoln_RAW/Clean Electric Guitar/ChrisJacoby_BoothShotLincoln_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ChrisJacoby_BoothShotLincoln/ChrisJacoby_BoothShotLincoln_STEMS/Clean Electric Guitar/Mono/ChrisJacoby_BoothShotLincoln_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ChrisJacoby_BoothShotLincoln/ChrisJacoby_BoothShotLincoln_STEMS/Clean Electric Guitar/Stereo/ChrisJacoby_BoothShotLincoln_STEM_03.wav"
+    ChrisJacoby_PigsFoot:
+        electric bass:
+            trim_at(s): 199
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/ChrisJacoby_PigsFoot/ChrisJacoby_PigsFoot_RAW/Electric Bass/ChrisJacoby_PigsFoot_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ChrisJacoby_PigsFoot/ChrisJacoby_PigsFoot_STEMS/Electric Bass/Mono/ChrisJacoby_PigsFoot_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ChrisJacoby_PigsFoot/ChrisJacoby_PigsFoot_STEMS/Electric Bass/Stereo/ChrisJacoby_PigsFoot_STEM_03.wav"
+    ClaraBerryAndWooldog_AirTraffic:
+        clean electric guitar:
+            trim_at(s): 7
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_RAW/Clean Electric Guitar/ClaraBerryAndWooldog_AirTraffic_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Clean Electric Guitar/Mono/ClaraBerryAndWooldog_AirTraffic_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Clean Electric Guitar/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_04.wav"
+        electric bass:
+            trim_at(s): 67
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_RAW/Electric Bass/ClaraBerryAndWooldog_AirTraffic_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Electric Bass/Mono/ClaraBerryAndWooldog_AirTraffic_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_03.wav"
+        female singer:
+            trim_at(s): 84
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_RAW/Female Singer/ClaraBerryAndWooldog_AirTraffic_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Female Singer/Mono/ClaraBerryAndWooldog_AirTraffic_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_08.wav"
+        piano:
+            trim_at(s): 78
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_RAW/Piano/ClaraBerryAndWooldog_AirTraffic_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Piano/Mono/ClaraBerryAndWooldog_AirTraffic_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_AirTraffic/ClaraBerryAndWooldog_AirTraffic_STEMS/Piano/Stereo/ClaraBerryAndWooldog_AirTraffic_STEM_06.wav"
+    ClaraBerryAndWooldog_Boys:
+        female singer:
+            trim_at(s): 108
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_RAW/Female Singer/ClaraBerryAndWooldog_Boys_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Female Singer/Mono/ClaraBerryAndWooldog_Boys_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_Boys_STEM_06.wav"
+        piano:
+            trim_at(s): 84
+            id_raw: "05"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_RAW/Piano/ClaraBerryAndWooldog_Boys_RAW_05_05.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Piano/Mono/ClaraBerryAndWooldog_Boys_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Piano/Stereo/ClaraBerryAndWooldog_Boys_STEM_05.wav"
+        vocalists:
+            trim_at(s): 108
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_RAW/Vocalists/ClaraBerryAndWooldog_Boys_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Vocalists/Mono/ClaraBerryAndWooldog_Boys_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Boys/ClaraBerryAndWooldog_Boys_STEMS/Vocalists/Stereo/ClaraBerryAndWooldog_Boys_STEM_07.wav"
+    ClaraBerryAndWooldog_Stella:
+        electric bass:
+            trim_at(s): 129
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_RAW/Electric Bass/ClaraBerryAndWooldog_Stella_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Electric Bass/Mono/ClaraBerryAndWooldog_Stella_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_Stella_STEM_04.wav"
+        female singer:
+            trim_at(s): 131
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_RAW/Female Singer/ClaraBerryAndWooldog_Stella_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Female Singer/Mono/ClaraBerryAndWooldog_Stella_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_Stella_STEM_07.wav"
+        piano:
+            trim_at(s): 148
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_RAW/Piano/ClaraBerryAndWooldog_Stella_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Piano/Mono/ClaraBerryAndWooldog_Stella_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Piano/Stereo/ClaraBerryAndWooldog_Stella_STEM_05.wav"
+        synthesizer:
+            trim_at(s): 103
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_RAW/Synthesizer/ClaraBerryAndWooldog_Stella_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Synthesizer/Mono/ClaraBerryAndWooldog_Stella_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_STEMS/Synthesizer/Stereo/ClaraBerryAndWooldog_Stella_STEM_06.wav"
+    ClaraBerryAndWooldog_TheBadGuys:
+        female singer:
+            trim_at(s): 35
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_RAW/Female Singer/ClaraBerryAndWooldog_TheBadGuys_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Female Singer/Mono/ClaraBerryAndWooldog_TheBadGuys_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_TheBadGuys_STEM_02.wav"
+        piano:
+            trim_at(s): 212
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_RAW/Piano/ClaraBerryAndWooldog_TheBadGuys_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Piano/Mono/ClaraBerryAndWooldog_TheBadGuys_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_TheBadGuys/ClaraBerryAndWooldog_TheBadGuys_STEMS/Piano/Stereo/ClaraBerryAndWooldog_TheBadGuys_STEM_01.wav"
+    ClaraBerryAndWooldog_WaltzForMyVictims:
+        electric bass:
+            trim_at(s): 133
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_RAW/Electric Bass/ClaraBerryAndWooldog_WaltzForMyVictims_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Electric Bass/Mono/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Electric Bass/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_02.wav"
+        female singer:
+            trim_at(s): 51
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_RAW/Female Singer/ClaraBerryAndWooldog_WaltzForMyVictims_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Female Singer/Mono/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Female Singer/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_05.wav"
+        piano:
+            trim_at(s): 62
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_RAW/Piano/ClaraBerryAndWooldog_WaltzForMyVictims_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Piano/Mono/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_STEMS/Piano/Stereo/ClaraBerryAndWooldog_WaltzForMyVictims_STEM_03.wav"
+    Creepoid_OldTree:
+        distorted electric guitar:
+            trim_at(s): 277
+            id_raw: "03"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_RAW/Distorted Electric Guitar/Creepoid_OldTree_RAW_05_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Distorted Electric Guitar/Mono/Creepoid_OldTree_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Distorted Electric Guitar/Stereo/Creepoid_OldTree_STEM_05.wav"
+        electric bass:
+            trim_at(s): 282
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_RAW/Electric Bass/Creepoid_OldTree_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Electric Bass/Mono/Creepoid_OldTree_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Electric Bass/Stereo/Creepoid_OldTree_STEM_02.wav"
+        male singer:
+            trim_at(s): 54
+            id_raw: "02"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_RAW/Male Singer/Creepoid_OldTree_RAW_08_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Male Singer/Mono/Creepoid_OldTree_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Creepoid_OldTree/Creepoid_OldTree_STEMS/Male Singer/Stereo/Creepoid_OldTree_STEM_08.wav"
+    CroqueMadame_Oil:
+        clean electric guitar:
+            trim_at(s): 403
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_RAW/Clean Electric Guitar/CroqueMadame_Oil_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Clean Electric Guitar/Mono/CroqueMadame_Oil_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Clean Electric Guitar/Stereo/CroqueMadame_Oil_STEM_02.wav"
+        piano:
+            trim_at(s): 403
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_RAW/Piano/CroqueMadame_Oil_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Piano/Mono/CroqueMadame_Oil_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CroqueMadame_Oil/CroqueMadame_Oil_STEMS/Piano/Stereo/CroqueMadame_Oil_STEM_01.wav"
+    CroqueMadame_Pilot:
+        clean electric guitar:
+            trim_at(s): 375
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_RAW/Clean Electric Guitar/CroqueMadame_Pilot_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Clean Electric Guitar/Mono/CroqueMadame_Pilot_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Clean Electric Guitar/Stereo/CroqueMadame_Pilot_STEM_02.wav"
+        piano:
+            trim_at(s): 374
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_RAW/Piano/CroqueMadame_Pilot_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Piano/Mono/CroqueMadame_Pilot_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/CroqueMadame_Pilot/CroqueMadame_Pilot_STEMS/Piano/Stereo/CroqueMadame_Pilot_STEM_01.wav"
+    Debussy_LenfantProdigue:
+        male singer:
+            trim_at(s): 139
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_RAW/Male Singer/Debussy_LenfantProdigue_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Male Singer/Mono/Debussy_LenfantProdigue_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Male Singer/Stereo/Debussy_LenfantProdigue_STEM_01.wav"
+        piano:
+            trim_at(s): 185
+            id_raw: "04"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_RAW/Piano/Debussy_LenfantProdigue_RAW_02_04.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Piano/Mono/Debussy_LenfantProdigue_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Debussy_LenfantProdigue/Debussy_LenfantProdigue_STEMS/Piano/Stereo/Debussy_LenfantProdigue_STEM_02.wav"
+    DreamersOfTheGhetto_HeavyLove:
+        electric bass:
+            trim_at(s): 211
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_RAW/Electric Bass/DreamersOfTheGhetto_HeavyLove_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Electric Bass/Mono/DreamersOfTheGhetto_HeavyLove_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Electric Bass/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_01.wav"
+        female singer:
+            trim_at(s): 252
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_RAW/Female Singer/DreamersOfTheGhetto_HeavyLove_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Female Singer/Mono/DreamersOfTheGhetto_HeavyLove_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Female Singer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_08.wav"
+        male singer:
+            trim_at(s): 252
+            id_raw: "03"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_RAW/Male Singer/DreamersOfTheGhetto_HeavyLove_RAW_06_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Male Singer/Mono/DreamersOfTheGhetto_HeavyLove_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Male Singer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_06.wav"
+        synthesizer:
+            trim_at(s): 230
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_RAW/Synthesizer/DreamersOfTheGhetto_HeavyLove_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Synthesizer/Mono/DreamersOfTheGhetto_HeavyLove_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_STEMS/Synthesizer/Stereo/DreamersOfTheGhetto_HeavyLove_STEM_09.wav"
+    EthanHein_BluesForNofi:
+        electric bass:
+            trim_at(s): 60
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/EthanHein_BluesForNofi/EthanHein_BluesForNofi_RAW/Electric Bass/EthanHein_BluesForNofi_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/EthanHein_BluesForNofi/EthanHein_BluesForNofi_STEMS/Electric Bass/Mono/EthanHein_BluesForNofi_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/EthanHein_BluesForNofi/EthanHein_BluesForNofi_STEMS/Electric Bass/Stereo/EthanHein_BluesForNofi_STEM_02.wav"
+    EthanHein_GirlOnABridge:
+        distorted electric guitar:
+            trim_at(s): 64
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_RAW/Distorted Electric Guitar/EthanHein_GirlOnABridge_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Distorted Electric Guitar/Mono/EthanHein_GirlOnABridge_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Distorted Electric Guitar/Stereo/EthanHein_GirlOnABridge_STEM_05.wav"
+        piano:
+            trim_at(s): 99
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_RAW/Piano/EthanHein_GirlOnABridge_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Piano/Mono/EthanHein_GirlOnABridge_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Piano/Stereo/EthanHein_GirlOnABridge_STEM_02.wav"
+        synthesizer:
+            trim_at(s): 119
+            id_raw: "02"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_RAW/Synthesizer/EthanHein_GirlOnABridge_RAW_03_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Synthesizer/Mono/EthanHein_GirlOnABridge_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_STEMS/Synthesizer/Stereo/EthanHein_GirlOnABridge_STEM_03.wav"
+    EthanHein_HarmonicaFigure:
+        electric bass:
+            trim_at(s): 28
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/EthanHein_HarmonicaFigure/EthanHein_HarmonicaFigure_RAW/Electric Bass/EthanHein_HarmonicaFigure_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/EthanHein_HarmonicaFigure/EthanHein_HarmonicaFigure_STEMS/Electric Bass/Mono/EthanHein_HarmonicaFigure_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/EthanHein_HarmonicaFigure/EthanHein_HarmonicaFigure_STEMS/Electric Bass/Stereo/EthanHein_HarmonicaFigure_STEM_03.wav"
+    FacesOnFilm_WaitingForGa:
+        acoustic guitar:
+            trim_at(s): 241
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_RAW/Acoustic Guitar/FacesOnFilm_WaitingForGa_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Acoustic Guitar/Mono/FacesOnFilm_WaitingForGa_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Acoustic Guitar/Stereo/FacesOnFilm_WaitingForGa_STEM_01.wav"
+        clean electric guitar:
+            trim_at(s): 212
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_RAW/Clean Electric Guitar/FacesOnFilm_WaitingForGa_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Clean Electric Guitar/Mono/FacesOnFilm_WaitingForGa_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Clean Electric Guitar/Stereo/FacesOnFilm_WaitingForGa_STEM_05.wav"
+        electric bass:
+            trim_at(s): 150
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_RAW/Electric Bass/FacesOnFilm_WaitingForGa_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Electric Bass/Mono/FacesOnFilm_WaitingForGa_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Electric Bass/Stereo/FacesOnFilm_WaitingForGa_STEM_02.wav"
+        male singer:
+            trim_at(s): 164
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_RAW/Male Singer/FacesOnFilm_WaitingForGa_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Male Singer/Mono/FacesOnFilm_WaitingForGa_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Male Singer/Stereo/FacesOnFilm_WaitingForGa_STEM_03.wav"
+        synthesizer:
+            trim_at(s): 225
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_RAW/Synthesizer/FacesOnFilm_WaitingForGa_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Synthesizer/Mono/FacesOnFilm_WaitingForGa_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FacesOnFilm_WaitingForGa/FacesOnFilm_WaitingForGa_STEMS/Synthesizer/Stereo/FacesOnFilm_WaitingForGa_STEM_07.wav"
+    FamilyBand_Again:
+        acoustic guitar:
+            trim_at(s): 188
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Acoustic Guitar/FamilyBand_Again_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Acoustic Guitar/Mono/FamilyBand_Again_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Acoustic Guitar/Stereo/FamilyBand_Again_STEM_04.wav"
+        clean electric guitar:
+            trim_at(s): 113
+            id_raw: "02"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Clean Electric Guitar/FamilyBand_Again_RAW_05_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Clean Electric Guitar/Mono/FamilyBand_Again_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Clean Electric Guitar/Stereo/FamilyBand_Again_STEM_05.wav"
+        distorted electric guitar:
+            trim_at(s): 173
+            id_raw: "02"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Distorted Electric Guitar/FamilyBand_Again_RAW_06_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Distorted Electric Guitar/Mono/FamilyBand_Again_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Distorted Electric Guitar/Stereo/FamilyBand_Again_STEM_06.wav"
+        electric bass:
+            trim_at(s): 166
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Electric Bass/FamilyBand_Again_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Electric Bass/Mono/FamilyBand_Again_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Electric Bass/Stereo/FamilyBand_Again_STEM_01.wav"
+        female singer:
+            trim_at(s): 134
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Female Singer/FamilyBand_Again_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Female Singer/Mono/FamilyBand_Again_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_STEMS/Female Singer/Stereo/FamilyBand_Again_STEM_09.wav"
+    Grants_PunchDrunk:
+        electric bass:
+            trim_at(s): 83
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_RAW/Electric Bass/Grants_PunchDrunk_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Electric Bass/Mono/Grants_PunchDrunk_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Electric Bass/Stereo/Grants_PunchDrunk_STEM_02.wav"
+        male rapper:
+            trim_at(s): 184
+            id_raw: "02"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_RAW/Male Rapper/Grants_PunchDrunk_RAW_03_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Male Rapper/Mono/Grants_PunchDrunk_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Male Rapper/Stereo/Grants_PunchDrunk_STEM_03.wav"
+        piano:
+            trim_at(s): 191
+            id_raw: "03"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_RAW/Piano/Grants_PunchDrunk_RAW_09_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Piano/Mono/Grants_PunchDrunk_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Grants_PunchDrunk/Grants_PunchDrunk_STEMS/Piano/Stereo/Grants_PunchDrunk_STEM_09.wav"
+    HeladoNegro_MitadDelMundo:
+        male singer:
+            trim_at(s): 111
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_RAW/Male Singer/HeladoNegro_MitadDelMundo_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Male Singer/Mono/HeladoNegro_MitadDelMundo_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Male Singer/Stereo/HeladoNegro_MitadDelMundo_STEM_08.wav"
+        electric bass:
+            trim_at(s): 147
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_RAW/Electric Bass/HeladoNegro_MitadDelMundo_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Electric Bass/Mono/HeladoNegro_MitadDelMundo_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Electric Bass/Stereo/HeladoNegro_MitadDelMundo_STEM_02.wav"
+        tack piano:
+            trim_at(s): 154
+            id_raw: "05"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_RAW/Tack Piano/HeladoNegro_MitadDelMundo_RAW_10_05.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Tack Piano/Mono/HeladoNegro_MitadDelMundo_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HeladoNegro_MitadDelMundo/HeladoNegro_MitadDelMundo_STEMS/Tack Piano/Stereo/HeladoNegro_MitadDelMundo_STEM_10.wav"
+    HezekiahJones_BorrowedHeart:
+        acoustic guitar:
+            trim_at(s): 223
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_RAW/Acoustic Guitar/HezekiahJones_BorrowedHeart_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Acoustic Guitar/Mono/HezekiahJones_BorrowedHeart_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Acoustic Guitar/Stereo/HezekiahJones_BorrowedHeart_STEM_01.wav"
+        banjo:
+            trim_at(s): 89
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_RAW/Banjo/HezekiahJones_BorrowedHeart_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Banjo/Mono/HezekiahJones_BorrowedHeart_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Banjo/Stereo/HezekiahJones_BorrowedHeart_STEM_03.wav"
+        electric bass:
+            trim_at(s): 225
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_RAW/Electric Bass/HezekiahJones_BorrowedHeart_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Electric Bass/Mono/HezekiahJones_BorrowedHeart_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Electric Bass/Stereo/HezekiahJones_BorrowedHeart_STEM_04.wav"
+        male singer:
+            trim_at(s): 58
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_RAW/Male Singer/HezekiahJones_BorrowedHeart_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Male Singer/Mono/HezekiahJones_BorrowedHeart_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HezekiahJones_BorrowedHeart/HezekiahJones_BorrowedHeart_STEMS/Male Singer/Stereo/HezekiahJones_BorrowedHeart_STEM_10.wav"
+    HopAlong_SisterCities:
+        acoustic guitar:
+            trim_at(s): 118
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Acoustic Guitar/HopAlong_SisterCities_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Acoustic Guitar/Mono/HopAlong_SisterCities_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Acoustic Guitar/Stereo/HopAlong_SisterCities_STEM_01.wav"
+        distorted electric guitar:
+            trim_at(s): 227
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Distorted Electric Guitar/HopAlong_SisterCities_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Distorted Electric Guitar/Mono/HopAlong_SisterCities_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Distorted Electric Guitar/Stereo/HopAlong_SisterCities_STEM_06.wav"
+        electric bass:
+            trim_at(s): 236
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Electric Bass/HopAlong_SisterCities_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Electric Bass/Mono/HopAlong_SisterCities_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Electric Bass/Stereo/HopAlong_SisterCities_STEM_02.wav"
+        female singer:
+            trim_at(s): 201
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Female Singer/HopAlong_SisterCities_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Female Singer/Mono/HopAlong_SisterCities_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Female Singer/Stereo/HopAlong_SisterCities_STEM_07.wav"
+        synthesizer:
+            trim_at(s): 203
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Synthesizer/HopAlong_SisterCities_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Synthesizer/Mono/HopAlong_SisterCities_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Synthesizer/Stereo/HopAlong_SisterCities_STEM_05.wav"
+        vocalists:
+            trim_at(s): 94
+            id_raw: "02"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_RAW/Vocalists/HopAlong_SisterCities_RAW_03_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Vocalists/Mono/HopAlong_SisterCities_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/HopAlong_SisterCities/HopAlong_SisterCities_STEMS/Vocalists/Stereo/HopAlong_SisterCities_STEM_03.wav"
+    InvisibleFamiliars_DisturbingWildlife:
+        clean electric guitar:
+            trim_at(s): 111
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Clean Electric Guitar/InvisibleFamiliars_DisturbingWildlife_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Clean Electric Guitar/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Clean Electric Guitar/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_05.wav"
+        electric bass:
+            trim_at(s): 120
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Electric Bass/InvisibleFamiliars_DisturbingWildlife_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Electric Bass/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Electric Bass/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_01.wav"
+        male singer:
+            trim_at(s): 117
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Male Singer/InvisibleFamiliars_DisturbingWildlife_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Male Singer/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Male Singer/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_09.wav"
+        tack piano:
+            trim_at(s): 108
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Tack Piano/InvisibleFamiliars_DisturbingWildlife_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Tack Piano/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Tack Piano/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_10.wav"
+        vocalists:
+            trim_at(s): 117
+            id_raw: "02"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Vocalists/InvisibleFamiliars_DisturbingWildlife_RAW_07_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Vocalists/Mono/InvisibleFamiliars_DisturbingWildlife_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_STEMS/Vocalists/Stereo/InvisibleFamiliars_DisturbingWildlife_STEM_07.wav"
+    JoelHelander_Definition:
+        piano:
+            trim_at(s): 203
+            id_raw: "05"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/JoelHelander_Definition/JoelHelander_Definition_RAW/Piano/JoelHelander_Definition_RAW_01_05.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/JoelHelander_Definition/JoelHelander_Definition_STEMS/Piano/Mono/JoelHelander_Definition_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/JoelHelander_Definition/JoelHelander_Definition_STEMS/Piano/Stereo/JoelHelander_Definition_STEM_01.wav"
+    JoelHelander_ExcessiveResistancetoChange:
+        acoustic guitar:
+            trim_at(s): 73
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_RAW/Acoustic Guitar/JoelHelander_ExcessiveResistancetoChange_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Acoustic Guitar/Mono/JoelHelander_ExcessiveResistancetoChange_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Acoustic Guitar/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_09.wav"
+        piano:
+            trim_at(s): 153
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_RAW/Piano/JoelHelander_ExcessiveResistancetoChange_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Piano/Mono/JoelHelander_ExcessiveResistancetoChange_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Piano/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_03.wav"
+        tack piano:
+            trim_at(s): 124
+            id_raw: "03"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_RAW/Tack Piano/JoelHelander_ExcessiveResistancetoChange_RAW_02_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Tack Piano/Mono/JoelHelander_ExcessiveResistancetoChange_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/JoelHelander_ExcessiveResistancetoChange/JoelHelander_ExcessiveResistancetoChange_STEMS/Tack Piano/Stereo/JoelHelander_ExcessiveResistancetoChange_STEM_02.wav"
+    KarimDouaidy_Hopscotch:
+        acoustic guitar:
+            trim_at(s): 274
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_RAW/Acoustic Guitar/KarimDouaidy_Hopscotch_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Acoustic Guitar/Mono/KarimDouaidy_Hopscotch_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Acoustic Guitar/Stereo/KarimDouaidy_Hopscotch_STEM_06.wav"
+        electric bass:
+            trim_at(s): 211
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_RAW/Electric Bass/KarimDouaidy_Hopscotch_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Electric Bass/Mono/KarimDouaidy_Hopscotch_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Electric Bass/Stereo/KarimDouaidy_Hopscotch_STEM_01.wav"
+        piano:
+            trim_at(s): 117
+            id_raw: "02"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_RAW/Piano/KarimDouaidy_Hopscotch_RAW_09_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Piano/Mono/KarimDouaidy_Hopscotch_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_STEMS/Piano/Stereo/KarimDouaidy_Hopscotch_STEM_09.wav"
+    KarimDouaidy_Yatora:
+        acoustic guitar:
+            trim_at(s): 175
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_RAW/Acoustic Guitar/KarimDouaidy_Yatora_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Acoustic Guitar/Mono/KarimDouaidy_Yatora_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Acoustic Guitar/Stereo/KarimDouaidy_Yatora_STEM_02.wav"
+        electric bass:
+            trim_at(s): 37
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_RAW/Electric Bass/KarimDouaidy_Yatora_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Electric Bass/Mono/KarimDouaidy_Yatora_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Electric Bass/Stereo/KarimDouaidy_Yatora_STEM_04.wav"
+        piano:
+            trim_at(s): 89
+            id_raw: "02"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_RAW/Piano/KarimDouaidy_Yatora_RAW_05_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Piano/Mono/KarimDouaidy_Yatora_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/KarimDouaidy_Yatora/KarimDouaidy_Yatora_STEMS/Piano/Stereo/KarimDouaidy_Yatora_STEM_05.wav"
+    LizNelson_Coldwar:
+        acoustic guitar:
+            trim_at(s): 131
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_RAW/Acoustic Guitar/LizNelson_Coldwar_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Acoustic Guitar/Mono/LizNelson_Coldwar_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Acoustic Guitar/Stereo/LizNelson_Coldwar_STEM_01.wav"
+        female singer:
+            trim_at(s): 154
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_RAW/Female Singer/LizNelson_Coldwar_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Female Singer/Mono/LizNelson_Coldwar_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_STEMS/Female Singer/Stereo/LizNelson_Coldwar_STEM_02.wav"
+    LizNelson_ImComingHome:
+        female singer:
+            trim_at(s): 100
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_ImComingHome/LizNelson_ImComingHome_RAW/Female Singer/LizNelson_ImComingHome_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_ImComingHome/LizNelson_ImComingHome_STEMS/Female Singer/Mono/LizNelson_ImComingHome_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_ImComingHome/LizNelson_ImComingHome_STEMS/Female Singer/Stereo/LizNelson_ImComingHome_STEM_01.wav"
+    LizNelson_Rainfall:
+        acoustic guitar:
+            trim_at(s): 243
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_RAW/Acoustic Guitar/LizNelson_Rainfall_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Acoustic Guitar/Mono/LizNelson_Rainfall_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Acoustic Guitar/Stereo/LizNelson_Rainfall_STEM_04.wav"
+        clean electric guitar:
+            trim_at(s): 252
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_RAW/Clean Electric Guitar/LizNelson_Rainfall_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Clean Electric Guitar/Mono/LizNelson_Rainfall_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Clean Electric Guitar/Stereo/LizNelson_Rainfall_STEM_05.wav"
+        female singer:
+            trim_at(s): 221
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_RAW/Female Singer/LizNelson_Rainfall_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Female Singer/Mono/LizNelson_Rainfall_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_STEMS/Female Singer/Stereo/LizNelson_Rainfall_STEM_01.wav"
+    Lushlife_ToynbeeSuite:
+        clean electric guitar:
+            trim_at(s): 228
+            id_raw: "01"
+            id_stem: "11"
+            raw_path: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_RAW/Clean Electric Guitar/Lushlife_ToynbeeSuite_RAW_11_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Clean Electric Guitar/Mono/Lushlife_ToynbeeSuite_STEM_11.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Clean Electric Guitar/Stereo/Lushlife_ToynbeeSuite_STEM_11.wav"
+        electric bass:
+            trim_at(s): 224
+            id_raw: "02"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_RAW/Electric Bass/Lushlife_ToynbeeSuite_RAW_08_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Electric Bass/Mono/Lushlife_ToynbeeSuite_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Electric Bass/Stereo/Lushlife_ToynbeeSuite_STEM_08.wav"
+        male rapper:
+            trim_at(s): 176
+            id_raw: "01"
+            id_stem: "26"
+            raw_path: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_RAW/Male Rapper/Lushlife_ToynbeeSuite_RAW_26_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Male Rapper/Mono/Lushlife_ToynbeeSuite_STEM_26.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Male Rapper/Stereo/Lushlife_ToynbeeSuite_STEM_26.wav"
+        piano:
+            trim_at(s): 457
+            id_raw: "01"
+            id_stem: "23"
+            raw_path: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_RAW/Piano/Lushlife_ToynbeeSuite_RAW_23_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Piano/Mono/Lushlife_ToynbeeSuite_STEM_23.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_STEMS/Piano/Stereo/Lushlife_ToynbeeSuite_STEM_23.wav"
+    Lushlife_ToynbeeSuite2:
+        electric bass:
+            trim_at(s): 49
+            id_raw: "01"
+            id_stem: "16"
+            raw_path: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite2/Lushlife_ToynbeeSuite2_RAW/Electric Bass/Lushlife_ToynbeeSuite2_RAW_16_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite2/Lushlife_ToynbeeSuite2_STEMS/Electric Bass/Mono/Lushlife_ToynbeeSuite2_STEM_16.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite2/Lushlife_ToynbeeSuite2_STEMS/Electric Bass/Stereo/Lushlife_ToynbeeSuite2_STEM_16.wav"
+    MatthewEntwistle_AnEveningWithOliver:
+        piano:
+            trim_at(s): 88
+            id_raw: "01"
+            id_stem: "11"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_RAW/Piano/MatthewEntwistle_AnEveningWithOliver_RAW_11_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/Piano/Mono/MatthewEntwistle_AnEveningWithOliver_STEM_11.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_AnEveningWithOliver/MatthewEntwistle_AnEveningWithOliver_STEMS/Piano/Stereo/MatthewEntwistle_AnEveningWithOliver_STEM_11.wav"
+    MatthewEntwistle_DontYouEver:
+        male singer:
+            trim_at(s): 79
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_RAW/Male Singer/MatthewEntwistle_DontYouEver_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Male Singer/Mono/MatthewEntwistle_DontYouEver_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Male Singer/Stereo/MatthewEntwistle_DontYouEver_STEM_07.wav"
+        piano:
+            trim_at(s): 83
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_RAW/Piano/MatthewEntwistle_DontYouEver_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Piano/Mono/MatthewEntwistle_DontYouEver_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_DontYouEver/MatthewEntwistle_DontYouEver_STEMS/Piano/Stereo/MatthewEntwistle_DontYouEver_STEM_02.wav"
+    MatthewEntwistle_FairerHopes:
+        piano:
+            trim_at(s): 247
+            id_raw: "01"
+            id_stem: "13"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_RAW/Piano/MatthewEntwistle_FairerHopes_RAW_13_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_STEMS/Piano/Mono/MatthewEntwistle_FairerHopes_STEM_13.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_STEMS/Piano/Stereo/MatthewEntwistle_FairerHopes_STEM_13.wav"
+    MatthewEntwistle_ImpressionsOfSaturn:
+        piano:
+            trim_at(s): 292
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_ImpressionsOfSaturn/MatthewEntwistle_ImpressionsOfSaturn_RAW/Piano/MatthewEntwistle_ImpressionsOfSaturn_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_ImpressionsOfSaturn/MatthewEntwistle_ImpressionsOfSaturn_STEMS/Piano/Mono/MatthewEntwistle_ImpressionsOfSaturn_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_ImpressionsOfSaturn/MatthewEntwistle_ImpressionsOfSaturn_STEMS/Piano/Stereo/MatthewEntwistle_ImpressionsOfSaturn_STEM_06.wav"
+    MatthewEntwistle_Lontano:
+        female singer:
+            trim_at(s): 91
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_RAW/Female Singer/MatthewEntwistle_Lontano_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Female Singer/Mono/MatthewEntwistle_Lontano_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Female Singer/Stereo/MatthewEntwistle_Lontano_STEM_02.wav"
+        piano:
+            trim_at(s): 114
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_RAW/Piano/MatthewEntwistle_Lontano_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Piano/Mono/MatthewEntwistle_Lontano_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_Lontano/MatthewEntwistle_Lontano_STEMS/Piano/Stereo/MatthewEntwistle_Lontano_STEM_01.wav"
+    MatthewEntwistle_TheArch:
+        piano:
+            trim_at(s): 146
+            id_raw: "01"
+            id_stem: "18"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_RAW/Piano/MatthewEntwistle_TheArch_RAW_18_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Piano/Mono/MatthewEntwistle_TheArch_STEM_18.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Piano/Stereo/MatthewEntwistle_TheArch_STEM_18.wav"
+        synthesizer:
+            trim_at(s): 231
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_RAW/Synthesizer/MatthewEntwistle_TheArch_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Synthesizer/Mono/MatthewEntwistle_TheArch_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheArch/MatthewEntwistle_TheArch_STEMS/Synthesizer/Stereo/MatthewEntwistle_TheArch_STEM_03.wav"
+    MatthewEntwistle_TheFlaxenField:
+        piano:
+            trim_at(s): 164
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheFlaxenField/MatthewEntwistle_TheFlaxenField_RAW/Piano/MatthewEntwistle_TheFlaxenField_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheFlaxenField/MatthewEntwistle_TheFlaxenField_STEMS/Piano/Mono/MatthewEntwistle_TheFlaxenField_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MatthewEntwistle_TheFlaxenField/MatthewEntwistle_TheFlaxenField_STEMS/Piano/Stereo/MatthewEntwistle_TheFlaxenField_STEM_03.wav"
+    Meaxic_TakeAStep:
+        clean electric guitar:
+            trim_at(s): 261
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_RAW/Clean Electric Guitar/Meaxic_TakeAStep_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Clean Electric Guitar/Mono/Meaxic_TakeAStep_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Clean Electric Guitar/Stereo/Meaxic_TakeAStep_STEM_02.wav"
+        distorted electric guitar:
+            trim_at(s): 264
+            id_raw: "06"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_RAW/Distorted Electric Guitar/Meaxic_TakeAStep_RAW_03_06.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Distorted Electric Guitar/Mono/Meaxic_TakeAStep_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Distorted Electric Guitar/Stereo/Meaxic_TakeAStep_STEM_03.wav"
+        electric bass:
+            trim_at(s): 252
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_RAW/Electric Bass/Meaxic_TakeAStep_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Electric Bass/Mono/Meaxic_TakeAStep_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Electric Bass/Stereo/Meaxic_TakeAStep_STEM_01.wav"
+        male singer:
+            trim_at(s): 57
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_RAW/Male Singer/Meaxic_TakeAStep_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Male Singer/Mono/Meaxic_TakeAStep_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Male Singer/Stereo/Meaxic_TakeAStep_STEM_04.wav"
+        vocalists:
+            trim_at(s): 140
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_RAW/Vocalists/Meaxic_TakeAStep_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Vocalists/Mono/Meaxic_TakeAStep_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_TakeAStep/Meaxic_TakeAStep_STEMS/Vocalists/Stereo/Meaxic_TakeAStep_STEM_08.wav"
+    Meaxic_YouListen:
+        acoustic guitar:
+            trim_at(s): 158
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_RAW/Acoustic Guitar/Meaxic_YouListen_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Acoustic Guitar/Mono/Meaxic_YouListen_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Acoustic Guitar/Stereo/Meaxic_YouListen_STEM_03.wav"
+        clean electric guitar:
+            trim_at(s): 160
+            id_raw: "03"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_RAW/Clean Electric Guitar/Meaxic_YouListen_RAW_05_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Clean Electric Guitar/Mono/Meaxic_YouListen_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Clean Electric Guitar/Stereo/Meaxic_YouListen_STEM_05.wav"
+        distorted electric guitar:
+            trim_at(s): 367
+            id_raw: "07"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_RAW/Distorted Electric Guitar/Meaxic_YouListen_RAW_06_07.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Distorted Electric Guitar/Mono/Meaxic_YouListen_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Distorted Electric Guitar/Stereo/Meaxic_YouListen_STEM_06.wav"
+        electric bass:
+            trim_at(s): 333
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_RAW/Electric Bass/Meaxic_YouListen_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Electric Bass/Mono/Meaxic_YouListen_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Electric Bass/Stereo/Meaxic_YouListen_STEM_04.wav"
+        male singer:
+            trim_at(s): 242
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_RAW/Male Singer/Meaxic_YouListen_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Male Singer/Mono/Meaxic_YouListen_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Meaxic_YouListen/Meaxic_YouListen_STEMS/Male Singer/Stereo/Meaxic_YouListen_STEM_01.wav"
+    MichaelKropf_AllGoodThings:
+        piano:
+            trim_at(s): 193
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_RAW/Piano/MichaelKropf_AllGoodThings_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_STEMS/Piano/Mono/MichaelKropf_AllGoodThings_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_STEMS/Piano/Stereo/MichaelKropf_AllGoodThings_STEM_01.wav"
+    MusicDelta_80sRock:
+        distorted electric guitar:
+            trim_at(s): 7
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_RAW/Distorted Electric Guitar/MusicDelta_80sRock_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Distorted Electric Guitar/Mono/MusicDelta_80sRock_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_80sRock_STEM_03.wav"
+        electric bass:
+            trim_at(s): 12
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_RAW/Electric Bass/MusicDelta_80sRock_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Electric Bass/Mono/MusicDelta_80sRock_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Electric Bass/Stereo/MusicDelta_80sRock_STEM_02.wav"
+        male singer:
+            trim_at(s): 21
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_RAW/Male Singer/MusicDelta_80sRock_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Male Singer/Mono/MusicDelta_80sRock_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_80sRock/MusicDelta_80sRock_STEMS/Male Singer/Stereo/MusicDelta_80sRock_STEM_04.wav"
+    MusicDelta_Beatles:
+        acoustic guitar:
+            trim_at(s): 4
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_RAW/Acoustic Guitar/MusicDelta_Beatles_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Acoustic Guitar/Mono/MusicDelta_Beatles_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Acoustic Guitar/Stereo/MusicDelta_Beatles_STEM_05.wav"
+        clean electric guitar:
+            trim_at(s): 11
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_RAW/Clean Electric Guitar/MusicDelta_Beatles_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Clean Electric Guitar/Mono/MusicDelta_Beatles_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Beatles_STEM_03.wav"
+        electric bass:
+            trim_at(s): 11
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_RAW/Electric Bass/MusicDelta_Beatles_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Electric Bass/Mono/MusicDelta_Beatles_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Electric Bass/Stereo/MusicDelta_Beatles_STEM_02.wav"
+        female singer:
+            trim_at(s): 22
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_RAW/Female Singer/MusicDelta_Beatles_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Female Singer/Mono/MusicDelta_Beatles_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Female Singer/Stereo/MusicDelta_Beatles_STEM_08.wav"
+        male singer:
+            trim_at(s): 8
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_RAW/Male Singer/MusicDelta_Beatles_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Male Singer/Mono/MusicDelta_Beatles_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Beatles/MusicDelta_Beatles_STEMS/Male Singer/Stereo/MusicDelta_Beatles_STEM_07.wav"
+    MusicDelta_BebopJazz:
+        piano:
+            trim_at(s): 84
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_BebopJazz/MusicDelta_BebopJazz_RAW/Piano/MusicDelta_BebopJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_BebopJazz/MusicDelta_BebopJazz_STEMS/Piano/Mono/MusicDelta_BebopJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_BebopJazz/MusicDelta_BebopJazz_STEMS/Piano/Stereo/MusicDelta_BebopJazz_STEM_03.wav"
+    MusicDelta_Britpop:
+        clean electric guitar:
+            trim_at(s): 22
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_RAW/Clean Electric Guitar/MusicDelta_Britpop_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Clean Electric Guitar/Mono/MusicDelta_Britpop_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Britpop_STEM_06.wav"
+        distorted electric guitar:
+            trim_at(s): 1
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_RAW/Distorted Electric Guitar/MusicDelta_Britpop_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Britpop_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Britpop_STEM_03.wav"
+        electric bass:
+            trim_at(s): 5
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_RAW/Electric Bass/MusicDelta_Britpop_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Electric Bass/Mono/MusicDelta_Britpop_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Electric Bass/Stereo/MusicDelta_Britpop_STEM_02.wav"
+        female singer:
+            trim_at(s): 21
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_RAW/Female Singer/MusicDelta_Britpop_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Female Singer/Mono/MusicDelta_Britpop_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Britpop/MusicDelta_Britpop_STEMS/Female Singer/Stereo/MusicDelta_Britpop_STEM_07.wav"
+    MusicDelta_CoolJazz:
+        piano:
+            trim_at(s): 18
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_CoolJazz/MusicDelta_CoolJazz_RAW/Piano/MusicDelta_CoolJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_CoolJazz/MusicDelta_CoolJazz_STEMS/Piano/Mono/MusicDelta_CoolJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_CoolJazz/MusicDelta_CoolJazz_STEMS/Piano/Stereo/MusicDelta_CoolJazz_STEM_03.wav"
+    MusicDelta_Country1:
+        acoustic guitar:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_RAW/Acoustic Guitar/MusicDelta_Country1_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Acoustic Guitar/Mono/MusicDelta_Country1_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Acoustic Guitar/Stereo/MusicDelta_Country1_STEM_04.wav"
+        electric bass:
+            trim_at(s): 16
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_RAW/Electric Bass/MusicDelta_Country1_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Electric Bass/Mono/MusicDelta_Country1_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Electric Bass/Stereo/MusicDelta_Country1_STEM_02.wav"
+        male singer:
+            trim_at(s): 1
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_RAW/Male Singer/MusicDelta_Country1_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Male Singer/Mono/MusicDelta_Country1_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country1/MusicDelta_Country1_STEMS/Male Singer/Stereo/MusicDelta_Country1_STEM_05.wav"
+    MusicDelta_Country2:
+        clean electric guitar:
+            trim_at(s): 7
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_RAW/Clean Electric Guitar/MusicDelta_Country2_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Clean Electric Guitar/Mono/MusicDelta_Country2_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Country2_STEM_03.wav"
+        electric bass:
+            trim_at(s): 5
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_RAW/Electric Bass/MusicDelta_Country2_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Electric Bass/Mono/MusicDelta_Country2_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Electric Bass/Stereo/MusicDelta_Country2_STEM_02.wav"
+        female singer:
+            trim_at(s): 6
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_RAW/Female Singer/MusicDelta_Country2_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Female Singer/Mono/MusicDelta_Country2_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Country2/MusicDelta_Country2_STEMS/Female Singer/Stereo/MusicDelta_Country2_STEM_05.wav"
+    MusicDelta_Disco:
+        clean electric guitar:
+            trim_at(s): 73
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_RAW/Clean Electric Guitar/MusicDelta_Disco_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Clean Electric Guitar/Mono/MusicDelta_Disco_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Disco_STEM_03.wav"
+        electric bass:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_RAW/Electric Bass/MusicDelta_Disco_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Electric Bass/Mono/MusicDelta_Disco_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Electric Bass/Stereo/MusicDelta_Disco_STEM_02.wav"
+        male singer:
+            trim_at(s): 84
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_RAW/Male Singer/MusicDelta_Disco_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Male Singer/Mono/MusicDelta_Disco_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_STEMS/Male Singer/Stereo/MusicDelta_Disco_STEM_04.wav"
+    MusicDelta_FunkJazz:
+        electric bass:
+            trim_at(s): 30
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_RAW/Electric Bass/MusicDelta_FunkJazz_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Bass/Mono/MusicDelta_FunkJazz_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Bass/Stereo/MusicDelta_FunkJazz_STEM_02.wav"
+        electric piano:
+            trim_at(s): 20
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_RAW/Electric Piano/MusicDelta_FunkJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Piano/Mono/MusicDelta_FunkJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_FunkJazz/MusicDelta_FunkJazz_STEMS/Electric Piano/Stereo/MusicDelta_FunkJazz_STEM_03.wav"
+    MusicDelta_FusionJazz:
+        electric bass:
+            trim_at(s): 77
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_RAW/Electric Bass/MusicDelta_FusionJazz_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Bass/Mono/MusicDelta_FusionJazz_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Bass/Stereo/MusicDelta_FusionJazz_STEM_02.wav"
+        electric piano:
+            trim_at(s): 65
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_RAW/Electric Piano/MusicDelta_FusionJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Piano/Mono/MusicDelta_FusionJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Electric Piano/Stereo/MusicDelta_FusionJazz_STEM_03.wav"
+        synthesizer:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_RAW/Synthesizer/MusicDelta_FusionJazz_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Synthesizer/Mono/MusicDelta_FusionJazz_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_STEMS/Synthesizer/Stereo/MusicDelta_FusionJazz_STEM_04.wav"
+    MusicDelta_Gospel:
+        clean electric guitar:
+            trim_at(s): 31
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_RAW/Clean Electric Guitar/MusicDelta_Gospel_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Clean Electric Guitar/Mono/MusicDelta_Gospel_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Gospel_STEM_03.wav"
+        electric bass:
+            trim_at(s): 37
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_RAW/Electric Bass/MusicDelta_Gospel_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Electric Bass/Mono/MusicDelta_Gospel_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Electric Bass/Stereo/MusicDelta_Gospel_STEM_02.wav"
+        female singer:
+            trim_at(s): 54
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_RAW/Female Singer/MusicDelta_Gospel_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Female Singer/Mono/MusicDelta_Gospel_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Gospel/MusicDelta_Gospel_STEMS/Female Singer/Stereo/MusicDelta_Gospel_STEM_06.wav"
+    MusicDelta_Grunge:
+        distorted electric guitar:
+            trim_at(s): 29
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_RAW/Distorted Electric Guitar/MusicDelta_Grunge_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Grunge_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Grunge_STEM_04.wav"
+        electric bass:
+            trim_at(s): 15
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_RAW/Electric Bass/MusicDelta_Grunge_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Electric Bass/Mono/MusicDelta_Grunge_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Electric Bass/Stereo/MusicDelta_Grunge_STEM_02.wav"
+        male singer:
+            trim_at(s): 29
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_RAW/Male Singer/MusicDelta_Grunge_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Male Singer/Mono/MusicDelta_Grunge_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Grunge/MusicDelta_Grunge_STEMS/Male Singer/Stereo/MusicDelta_Grunge_STEM_05.wav"
+    MusicDelta_Hendrix:
+        distorted electric guitar:
+            trim_at(s): 3
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_RAW/Distorted Electric Guitar/MusicDelta_Hendrix_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Hendrix_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Hendrix_STEM_03.wav"
+        electric bass:
+            trim_at(s): 1
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_RAW/Electric Bass/MusicDelta_Hendrix_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Electric Bass/Mono/MusicDelta_Hendrix_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Electric Bass/Stereo/MusicDelta_Hendrix_STEM_02.wav"
+        male singer:
+            trim_at(s): 2
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_RAW/Male Singer/MusicDelta_Hendrix_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Male Singer/Mono/MusicDelta_Hendrix_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Hendrix/MusicDelta_Hendrix_STEMS/Male Singer/Stereo/MusicDelta_Hendrix_STEM_04.wav"
+    MusicDelta_LatinJazz:
+        electric bass:
+            trim_at(s): 48
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_RAW/Electric Bass/MusicDelta_LatinJazz_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Bass/Mono/MusicDelta_LatinJazz_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Bass/Stereo/MusicDelta_LatinJazz_STEM_01.wav"
+        electric piano:
+            trim_at(s): 16
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_RAW/Electric Piano/MusicDelta_LatinJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Piano/Mono/MusicDelta_LatinJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_LatinJazz/MusicDelta_LatinJazz_STEMS/Electric Piano/Stereo/MusicDelta_LatinJazz_STEM_03.wav"
+    MusicDelta_ModalJazz:
+        piano:
+            trim_at(s): 86
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_ModalJazz/MusicDelta_ModalJazz_RAW/Piano/MusicDelta_ModalJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_ModalJazz/MusicDelta_ModalJazz_STEMS/Piano/Mono/MusicDelta_ModalJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_ModalJazz/MusicDelta_ModalJazz_STEMS/Piano/Stereo/MusicDelta_ModalJazz_STEM_03.wav"
+    MusicDelta_Punk:
+        distorted electric guitar:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_RAW/Distorted Electric Guitar/MusicDelta_Punk_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Punk_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Punk_STEM_03.wav"
+        electric bass:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_RAW/Electric Bass/MusicDelta_Punk_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Electric Bass/Mono/MusicDelta_Punk_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Electric Bass/Stereo/MusicDelta_Punk_STEM_02.wav"
+        male singer:
+            trim_at(s): 13
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_RAW/Male Singer/MusicDelta_Punk_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Male Singer/Mono/MusicDelta_Punk_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Punk/MusicDelta_Punk_STEMS/Male Singer/Stereo/MusicDelta_Punk_STEM_04.wav"
+    MusicDelta_Reggae:
+        clean electric guitar:
+            trim_at(s): 7
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_RAW/Clean Electric Guitar/MusicDelta_Reggae_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Clean Electric Guitar/Mono/MusicDelta_Reggae_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Reggae_STEM_03.wav"
+        electric bass:
+            trim_at(s): 4
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_RAW/Electric Bass/MusicDelta_Reggae_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Electric Bass/Mono/MusicDelta_Reggae_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Electric Bass/Stereo/MusicDelta_Reggae_STEM_02.wav"
+        male singer:
+            trim_at(s): 8
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_RAW/Male Singer/MusicDelta_Reggae_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Male Singer/Mono/MusicDelta_Reggae_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_STEMS/Male Singer/Stereo/MusicDelta_Reggae_STEM_04.wav"
+    MusicDelta_Rock:
+        clean electric guitar:
+            trim_at(s): 3
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_RAW/Clean Electric Guitar/MusicDelta_Rock_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Clean Electric Guitar/Mono/MusicDelta_Rock_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Rock_STEM_04.wav"
+        electric bass:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_RAW/Electric Bass/MusicDelta_Rock_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Electric Bass/Mono/MusicDelta_Rock_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Electric Bass/Stereo/MusicDelta_Rock_STEM_02.wav"
+        male singer:
+            trim_at(s): 3
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_RAW/Male Singer/MusicDelta_Rock_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Male Singer/Mono/MusicDelta_Rock_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_STEMS/Male Singer/Stereo/MusicDelta_Rock_STEM_05.wav"
+    MusicDelta_Rockabilly:
+        clean electric guitar:
+            trim_at(s): 13
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_RAW/Clean Electric Guitar/MusicDelta_Rockabilly_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Clean Electric Guitar/Mono/MusicDelta_Rockabilly_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Rockabilly_STEM_04.wav"
+        distorted electric guitar:
+            trim_at(s): 0
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_RAW/Distorted Electric Guitar/MusicDelta_Rockabilly_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Rockabilly_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Rockabilly_STEM_03.wav"
+        electric bass:
+            trim_at(s): 3
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_RAW/Electric Bass/MusicDelta_Rockabilly_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Electric Bass/Mono/MusicDelta_Rockabilly_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Electric Bass/Stereo/MusicDelta_Rockabilly_STEM_02.wav"
+        female singer:
+            trim_at(s): 16
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_RAW/Female Singer/MusicDelta_Rockabilly_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Female Singer/Mono/MusicDelta_Rockabilly_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Rockabilly/MusicDelta_Rockabilly_STEMS/Female Singer/Stereo/MusicDelta_Rockabilly_STEM_05.wav"
+    MusicDelta_Shadows:
+        clean electric guitar:
+            trim_at(s): 21
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_RAW/Clean Electric Guitar/MusicDelta_Shadows_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Clean Electric Guitar/Mono/MusicDelta_Shadows_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Clean Electric Guitar/Stereo/MusicDelta_Shadows_STEM_04.wav"
+        electric bass:
+            trim_at(s): 15
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_RAW/Electric Bass/MusicDelta_Shadows_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Electric Bass/Mono/MusicDelta_Shadows_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Shadows/MusicDelta_Shadows_STEMS/Electric Bass/Stereo/MusicDelta_Shadows_STEM_01.wav"
+    MusicDelta_SpeedMetal:
+        distorted electric guitar:
+            trim_at(s): 9
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_RAW/Distorted Electric Guitar/MusicDelta_SpeedMetal_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Distorted Electric Guitar/Mono/MusicDelta_SpeedMetal_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_SpeedMetal_STEM_04.wav"
+        electric bass:
+            trim_at(s): 18
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_RAW/Electric Bass/MusicDelta_SpeedMetal_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Electric Bass/Mono/MusicDelta_SpeedMetal_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_SpeedMetal/MusicDelta_SpeedMetal_STEMS/Electric Bass/Stereo/MusicDelta_SpeedMetal_STEM_02.wav"
+    MusicDelta_SwingJazz:
+        piano:
+            trim_at(s): 58
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_SwingJazz/MusicDelta_SwingJazz_RAW/Piano/MusicDelta_SwingJazz_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_SwingJazz/MusicDelta_SwingJazz_STEMS/Piano/Mono/MusicDelta_SwingJazz_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_SwingJazz/MusicDelta_SwingJazz_STEMS/Piano/Stereo/MusicDelta_SwingJazz_STEM_03.wav"
+    MusicDelta_Zeppelin:
+        distorted electric guitar:
+            trim_at(s): 2
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_RAW/Distorted Electric Guitar/MusicDelta_Zeppelin_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Distorted Electric Guitar/Mono/MusicDelta_Zeppelin_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Distorted Electric Guitar/Stereo/MusicDelta_Zeppelin_STEM_04.wav"
+        electric bass:
+            trim_at(s): 2
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_RAW/Electric Bass/MusicDelta_Zeppelin_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Electric Bass/Mono/MusicDelta_Zeppelin_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/MusicDelta_Zeppelin/MusicDelta_Zeppelin_STEMS/Electric Bass/Stereo/MusicDelta_Zeppelin_STEM_01.wav"
+    NightPanther_Fire:
+        electric bass:
+            trim_at(s): 124
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_RAW/Electric Bass/NightPanther_Fire_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Electric Bass/Mono/NightPanther_Fire_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Electric Bass/Stereo/NightPanther_Fire_STEM_01.wav"
+        male singer:
+            trim_at(s): 82
+            id_raw: "02"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_RAW/Male Singer/NightPanther_Fire_RAW_07_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Male Singer/Mono/NightPanther_Fire_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/NightPanther_Fire/NightPanther_Fire_STEMS/Male Singer/Stereo/NightPanther_Fire_STEM_07.wav"
+    Phoenix_BrokenPledgeChicagoReel:
+        acoustic guitar:
+            trim_at(s): 148
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_BrokenPledgeChicagoReel/Phoenix_BrokenPledgeChicagoReel_RAW/Acoustic Guitar/Phoenix_BrokenPledgeChicagoReel_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_BrokenPledgeChicagoReel/Phoenix_BrokenPledgeChicagoReel_STEMS/Acoustic Guitar/Mono/Phoenix_BrokenPledgeChicagoReel_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_BrokenPledgeChicagoReel/Phoenix_BrokenPledgeChicagoReel_STEMS/Acoustic Guitar/Stereo/Phoenix_BrokenPledgeChicagoReel_STEM_01.wav"
+    Phoenix_ColliersDaughter:
+        acoustic guitar:
+            trim_at(s): 145
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_RAW/Acoustic Guitar/Phoenix_ColliersDaughter_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Acoustic Guitar/Mono/Phoenix_ColliersDaughter_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Acoustic Guitar/Stereo/Phoenix_ColliersDaughter_STEM_01.wav"
+        electric bass:
+            trim_at(s): 165
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_RAW/Electric Bass/Phoenix_ColliersDaughter_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Electric Bass/Mono/Phoenix_ColliersDaughter_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_ColliersDaughter/Phoenix_ColliersDaughter_STEMS/Electric Bass/Stereo/Phoenix_ColliersDaughter_STEM_04.wav"
+    Phoenix_ElzicsFarewell:
+        acoustic guitar:
+            trim_at(s): 121
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_ElzicsFarewell/Phoenix_ElzicsFarewell_RAW/Acoustic Guitar/Phoenix_ElzicsFarewell_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_ElzicsFarewell/Phoenix_ElzicsFarewell_STEMS/Acoustic Guitar/Mono/Phoenix_ElzicsFarewell_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_ElzicsFarewell/Phoenix_ElzicsFarewell_STEMS/Acoustic Guitar/Stereo/Phoenix_ElzicsFarewell_STEM_01.wav"
+    Phoenix_LarkOnTheStrandDrummondCastle:
+        acoustic guitar:
+            trim_at(s): 82
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_RAW/Acoustic Guitar/Phoenix_LarkOnTheStrandDrummondCastle_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_STEMS/Acoustic Guitar/Mono/Phoenix_LarkOnTheStrandDrummondCastle_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_STEMS/Acoustic Guitar/Stereo/Phoenix_LarkOnTheStrandDrummondCastle_STEM_01.wav"
+    Phoenix_ScotchMorris:
+        acoustic guitar:
+            trim_at(s): 145
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_ScotchMorris/Phoenix_ScotchMorris_RAW/Acoustic Guitar/Phoenix_ScotchMorris_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_ScotchMorris/Phoenix_ScotchMorris_STEMS/Acoustic Guitar/Mono/Phoenix_ScotchMorris_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_ScotchMorris/Phoenix_ScotchMorris_STEMS/Acoustic Guitar/Stereo/Phoenix_ScotchMorris_STEM_01.wav"
+    Phoenix_SeanCaughlinsTheScartaglen:
+        acoustic guitar:
+            trim_at(s): 137
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_RAW/Acoustic Guitar/Phoenix_SeanCaughlinsTheScartaglen_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Acoustic Guitar/Mono/Phoenix_SeanCaughlinsTheScartaglen_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Acoustic Guitar/Stereo/Phoenix_SeanCaughlinsTheScartaglen_STEM_01.wav"
+        electric bass:
+            trim_at(s): 34
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_RAW/Electric Bass/Phoenix_SeanCaughlinsTheScartaglen_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Electric Bass/Mono/Phoenix_SeanCaughlinsTheScartaglen_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_STEMS/Electric Bass/Stereo/Phoenix_SeanCaughlinsTheScartaglen_STEM_04.wav"
+    PortStWillow_StayEven:
+        clean electric guitar:
+            trim_at(s): 280
+            id_raw: "03"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Clean Electric Guitar/PortStWillow_StayEven_RAW_07_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Clean Electric Guitar/Mono/PortStWillow_StayEven_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Clean Electric Guitar/Stereo/PortStWillow_StayEven_STEM_07.wav"
+        electric bass:
+            trim_at(s): 139
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Electric Bass/PortStWillow_StayEven_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Electric Bass/Mono/PortStWillow_StayEven_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Electric Bass/Stereo/PortStWillow_StayEven_STEM_10.wav"
+        male singer:
+            trim_at(s): 135
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Male Singer/PortStWillow_StayEven_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Male Singer/Mono/PortStWillow_StayEven_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Male Singer/Stereo/PortStWillow_StayEven_STEM_08.wav"
+        piano:
+            trim_at(s): 98
+            id_raw: "02"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Piano/PortStWillow_StayEven_RAW_09_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Piano/Mono/PortStWillow_StayEven_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_STEMS/Piano/Stereo/PortStWillow_StayEven_STEM_09.wav"
+    PurlingHiss_Lolita:
+        distorted electric guitar:
+            trim_at(s): 192
+            id_raw: "03"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_RAW/Distorted Electric Guitar/PurlingHiss_Lolita_RAW_03_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Distorted Electric Guitar/Mono/PurlingHiss_Lolita_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Distorted Electric Guitar/Stereo/PurlingHiss_Lolita_STEM_03.wav"
+        electric bass:
+            trim_at(s): 241
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_RAW/Electric Bass/PurlingHiss_Lolita_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Electric Bass/Mono/PurlingHiss_Lolita_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Electric Bass/Stereo/PurlingHiss_Lolita_STEM_01.wav"
+        vocalists:
+            trim_at(s): 121
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_RAW/Vocalists/PurlingHiss_Lolita_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Vocalists/Mono/PurlingHiss_Lolita_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/PurlingHiss_Lolita/PurlingHiss_Lolita_STEMS/Vocalists/Stereo/PurlingHiss_Lolita_STEM_06.wav"
+    SecretMountains_HighHorse:
+        clean electric guitar:
+            trim_at(s): 290
+            id_raw: "02"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_RAW/Clean Electric Guitar/SecretMountains_HighHorse_RAW_05_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Clean Electric Guitar/Mono/SecretMountains_HighHorse_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Clean Electric Guitar/Stereo/SecretMountains_HighHorse_STEM_05.wav"
+        electric bass:
+            trim_at(s): 104
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_RAW/Electric Bass/SecretMountains_HighHorse_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Electric Bass/Mono/SecretMountains_HighHorse_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Electric Bass/Stereo/SecretMountains_HighHorse_STEM_01.wav"
+        female singer:
+            trim_at(s): 234
+            id_raw: "02"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_RAW/Female Singer/SecretMountains_HighHorse_RAW_09_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Female Singer/Mono/SecretMountains_HighHorse_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Female Singer/Stereo/SecretMountains_HighHorse_STEM_09.wav"
+        piano:
+            trim_at(s): 270
+            id_raw: "04"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_RAW/Piano/SecretMountains_HighHorse_RAW_07_04.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Piano/Mono/SecretMountains_HighHorse_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Piano/Stereo/SecretMountains_HighHorse_STEM_07.wav"
+        synthesizer:
+            trim_at(s): 218
+            id_raw: "02"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_RAW/Synthesizer/SecretMountains_HighHorse_RAW_08_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Synthesizer/Mono/SecretMountains_HighHorse_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SecretMountains_HighHorse/SecretMountains_HighHorse_STEMS/Synthesizer/Stereo/SecretMountains_HighHorse_STEM_08.wav"
+    Snowmine_Curfews:
+        clean electric guitar:
+            trim_at(s): 99
+            id_raw: "04"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Clean Electric Guitar/Snowmine_Curfews_RAW_08_04.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Clean Electric Guitar/Mono/Snowmine_Curfews_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Clean Electric Guitar/Stereo/Snowmine_Curfews_STEM_08.wav"
+        electric bass:
+            trim_at(s): 98
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Electric Bass/Snowmine_Curfews_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Electric Bass/Mono/Snowmine_Curfews_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Electric Bass/Stereo/Snowmine_Curfews_STEM_02.wav"
+        male singer:
+            trim_at(s): 209
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Male Singer/Snowmine_Curfews_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Male Singer/Mono/Snowmine_Curfews_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Male Singer/Stereo/Snowmine_Curfews_STEM_03.wav"
+        synthesizer:
+            trim_at(s): 121
+            id_raw: "010"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Synthesizer/Snowmine_Curfews_RAW_09_10.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Synthesizer/Mono/Snowmine_Curfews_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Synthesizer/Stereo/Snowmine_Curfews_STEM_09.wav"
+        tack piano:
+            trim_at(s): 125
+            id_raw: "03"
+            id_stem: "11"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Tack Piano/Snowmine_Curfews_RAW_11_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Tack Piano/Mono/Snowmine_Curfews_STEM_11.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Tack Piano/Stereo/Snowmine_Curfews_STEM_11.wav"
+        vocalists:
+            trim_at(s): 222
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Vocalists/Snowmine_Curfews_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Vocalists/Mono/Snowmine_Curfews_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_STEMS/Vocalists/Stereo/Snowmine_Curfews_STEM_10.wav"
+    StevenClark_Bounty:
+        clean electric guitar:
+            trim_at(s): 193
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Clean Electric Guitar/StevenClark_Bounty_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Clean Electric Guitar/Mono/StevenClark_Bounty_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Clean Electric Guitar/Stereo/StevenClark_Bounty_STEM_01.wav"
+        electric bass:
+            trim_at(s): 119
+            id_raw: "03"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Electric Bass/StevenClark_Bounty_RAW_02_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Electric Bass/Mono/StevenClark_Bounty_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Electric Bass/Stereo/StevenClark_Bounty_STEM_02.wav"
+        male singer:
+            trim_at(s): 135
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Male Singer/StevenClark_Bounty_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Male Singer/Mono/StevenClark_Bounty_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Male Singer/Stereo/StevenClark_Bounty_STEM_08.wav"
+        piano:
+            trim_at(s): 218
+            id_raw: "02"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Piano/StevenClark_Bounty_RAW_09_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Piano/Mono/StevenClark_Bounty_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Piano/Stereo/StevenClark_Bounty_STEM_09.wav"
+        synthesizer:
+            trim_at(s): 103
+            id_raw: "02"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Synthesizer/StevenClark_Bounty_RAW_10_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Synthesizer/Mono/StevenClark_Bounty_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_STEMS/Synthesizer/Stereo/StevenClark_Bounty_STEM_10.wav"
+    StrandOfOaks_Spacestation:
+        electric bass:
+            trim_at(s): 117
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_RAW/Electric Bass/StrandOfOaks_Spacestation_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Electric Bass/Mono/StrandOfOaks_Spacestation_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Electric Bass/Stereo/StrandOfOaks_Spacestation_STEM_01.wav"
+        male singer:
+            trim_at(s): 44
+            id_raw: "01"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_RAW/Male Singer/StrandOfOaks_Spacestation_RAW_04_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Male Singer/Mono/StrandOfOaks_Spacestation_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Male Singer/Stereo/StrandOfOaks_Spacestation_STEM_04.wav"
+        piano:
+            trim_at(s): 78
+            id_raw: "03"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_RAW/Piano/StrandOfOaks_Spacestation_RAW_06_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Piano/Mono/StrandOfOaks_Spacestation_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Piano/Stereo/StrandOfOaks_Spacestation_STEM_06.wav"
+        synthesizer:
+            trim_at(s): 39
+            id_raw: "01"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_RAW/Synthesizer/StrandOfOaks_Spacestation_RAW_07_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Synthesizer/Mono/StrandOfOaks_Spacestation_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Synthesizer/Stereo/StrandOfOaks_Spacestation_STEM_07.wav"
+        tack piano:
+            trim_at(s): 97
+            id_raw: "02"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_RAW/Tack Piano/StrandOfOaks_Spacestation_RAW_08_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Tack Piano/Mono/StrandOfOaks_Spacestation_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/StrandOfOaks_Spacestation/StrandOfOaks_Spacestation_STEMS/Tack Piano/Stereo/StrandOfOaks_Spacestation_STEM_08.wav"
+    SweetLights_YouLetMeDown:
+        acoustic guitar:
+            trim_at(s): 343
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Acoustic Guitar/SweetLights_YouLetMeDown_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Acoustic Guitar/Mono/SweetLights_YouLetMeDown_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Acoustic Guitar/Stereo/SweetLights_YouLetMeDown_STEM_01.wav"
+        electric bass:
+            trim_at(s): 294
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Electric Bass/SweetLights_YouLetMeDown_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Electric Bass/Mono/SweetLights_YouLetMeDown_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Electric Bass/Stereo/SweetLights_YouLetMeDown_STEM_02.wav"
+        male singer:
+            trim_at(s): 254
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Male Singer/SweetLights_YouLetMeDown_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Male Singer/Mono/SweetLights_YouLetMeDown_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Male Singer/Stereo/SweetLights_YouLetMeDown_STEM_08.wav"
+        piano:
+            trim_at(s): 348
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Piano/SweetLights_YouLetMeDown_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Piano/Mono/SweetLights_YouLetMeDown_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Piano/Stereo/SweetLights_YouLetMeDown_STEM_09.wav"
+        synthesizer:
+            trim_at(s): 213
+            id_raw: "01"
+            id_stem: "10"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Synthesizer/SweetLights_YouLetMeDown_RAW_10_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Synthesizer/Mono/SweetLights_YouLetMeDown_STEM_10.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Synthesizer/Stereo/SweetLights_YouLetMeDown_STEM_10.wav"
+        tack piano:
+            trim_at(s): 153
+            id_raw: "01"
+            id_stem: "11"
+            raw_path: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_RAW/Tack Piano/SweetLights_YouLetMeDown_RAW_11_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Tack Piano/Mono/SweetLights_YouLetMeDown_STEM_11.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/SweetLights_YouLetMeDown/SweetLights_YouLetMeDown_STEMS/Tack Piano/Stereo/SweetLights_YouLetMeDown_STEM_11.wav"
+    TablaBreakbeatScience_Animoog:
+        electric bass:
+            trim_at(s): 205
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Animoog/TablaBreakbeatScience_Animoog_RAW/Electric Bass/TablaBreakbeatScience_Animoog_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Animoog/TablaBreakbeatScience_Animoog_STEMS/Electric Bass/Mono/TablaBreakbeatScience_Animoog_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Animoog/TablaBreakbeatScience_Animoog_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_Animoog_STEM_02.wav"
+    TablaBreakbeatScience_CaptainSky:
+        electric bass:
+            trim_at(s): 216
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_CaptainSky/TablaBreakbeatScience_CaptainSky_RAW/Electric Bass/TablaBreakbeatScience_CaptainSky_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_CaptainSky/TablaBreakbeatScience_CaptainSky_STEMS/Electric Bass/Mono/TablaBreakbeatScience_CaptainSky_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_CaptainSky/TablaBreakbeatScience_CaptainSky_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_CaptainSky_STEM_02.wav"
+    TablaBreakbeatScience_MiloVsMongo:
+        synthesizer:
+            trim_at(s): 245
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MiloVsMongo/TablaBreakbeatScience_MiloVsMongo_RAW/Synthesizer/TablaBreakbeatScience_MiloVsMongo_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MiloVsMongo/TablaBreakbeatScience_MiloVsMongo_STEMS/Synthesizer/Mono/TablaBreakbeatScience_MiloVsMongo_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MiloVsMongo/TablaBreakbeatScience_MiloVsMongo_STEMS/Synthesizer/Stereo/TablaBreakbeatScience_MiloVsMongo_STEM_06.wav"
+    TablaBreakbeatScience_MoodyPlucks:
+        clean electric guitar:
+            trim_at(s): 86
+            id_raw: "01"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_RAW/Clean Electric Guitar/TablaBreakbeatScience_MoodyPlucks_RAW_09_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Clean Electric Guitar/Mono/TablaBreakbeatScience_MoodyPlucks_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Clean Electric Guitar/Stereo/TablaBreakbeatScience_MoodyPlucks_STEM_09.wav"
+        electric bass:
+            trim_at(s): 349
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_RAW/Electric Bass/TablaBreakbeatScience_MoodyPlucks_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Electric Bass/Mono/TablaBreakbeatScience_MoodyPlucks_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_MoodyPlucks/TablaBreakbeatScience_MoodyPlucks_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_MoodyPlucks_STEM_05.wav"
+    TablaBreakbeatScience_PhaseTransition:
+        electric bass:
+            trim_at(s): 183
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_RAW/Electric Bass/TablaBreakbeatScience_PhaseTransition_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Electric Bass/Mono/TablaBreakbeatScience_PhaseTransition_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_PhaseTransition_STEM_03.wav"
+        synthesizer:
+            trim_at(s): 414
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_RAW/Synthesizer/TablaBreakbeatScience_PhaseTransition_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Synthesizer/Mono/TablaBreakbeatScience_PhaseTransition_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_PhaseTransition/TablaBreakbeatScience_PhaseTransition_STEMS/Synthesizer/Stereo/TablaBreakbeatScience_PhaseTransition_STEM_06.wav"
+    TablaBreakbeatScience_Vger:
+        clean electric guitar:
+            trim_at(s): 466
+            id_raw: "01"
+            id_stem: "06"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_RAW/Clean Electric Guitar/TablaBreakbeatScience_Vger_RAW_06_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Clean Electric Guitar/Mono/TablaBreakbeatScience_Vger_STEM_06.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Clean Electric Guitar/Stereo/TablaBreakbeatScience_Vger_STEM_06.wav"
+        electric bass:
+            trim_at(s): 258
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_RAW/Electric Bass/TablaBreakbeatScience_Vger_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Electric Bass/Mono/TablaBreakbeatScience_Vger_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TablaBreakbeatScience_Vger/TablaBreakbeatScience_Vger_STEMS/Electric Bass/Stereo/TablaBreakbeatScience_Vger_STEM_03.wav"
+    TheDistricts_Vermont:
+        clean electric guitar:
+            trim_at(s): 13
+            id_raw: "02"
+            id_stem: "07"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Clean Electric Guitar/TheDistricts_Vermont_RAW_07_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Clean Electric Guitar/Mono/TheDistricts_Vermont_STEM_07.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Clean Electric Guitar/Stereo/TheDistricts_Vermont_STEM_07.wav"
+        electric bass:
+            trim_at(s): 147
+            id_raw: "02"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Electric Bass/TheDistricts_Vermont_RAW_01_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Electric Bass/Mono/TheDistricts_Vermont_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Electric Bass/Stereo/TheDistricts_Vermont_STEM_01.wav"
+        male singer:
+            trim_at(s): 121
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Male Singer/TheDistricts_Vermont_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Male Singer/Mono/TheDistricts_Vermont_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Male Singer/Stereo/TheDistricts_Vermont_STEM_05.wav"
+        synthesizer:
+            trim_at(s): 204
+            id_raw: "02"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Synthesizer/TheDistricts_Vermont_RAW_04_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Synthesizer/Mono/TheDistricts_Vermont_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Synthesizer/Stereo/TheDistricts_Vermont_STEM_04.wav"
+        vocalists:
+            trim_at(s): 121
+            id_raw: "02"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Vocalists/TheDistricts_Vermont_RAW_02_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Vocalists/Mono/TheDistricts_Vermont_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_STEMS/Vocalists/Stereo/TheDistricts_Vermont_STEM_02.wav"
+    TheScarletBrand_LesFleursDuMal:
+        clean electric guitar:
+            trim_at(s): 251
+            id_raw: "01"
+            id_stem: "03"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_RAW/Clean Electric Guitar/TheScarletBrand_LesFleursDuMal_RAW_03_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Clean Electric Guitar/Mono/TheScarletBrand_LesFleursDuMal_STEM_03.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Clean Electric Guitar/Stereo/TheScarletBrand_LesFleursDuMal_STEM_03.wav"
+        distorted electric guitar:
+            trim_at(s): 165
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_RAW/Distorted Electric Guitar/TheScarletBrand_LesFleursDuMal_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Distorted Electric Guitar/Mono/TheScarletBrand_LesFleursDuMal_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Distorted Electric Guitar/Stereo/TheScarletBrand_LesFleursDuMal_STEM_05.wav"
+        electric bass:
+            trim_at(s): 265
+            id_raw: "01"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_RAW/Electric Bass/TheScarletBrand_LesFleursDuMal_RAW_02_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Electric Bass/Mono/TheScarletBrand_LesFleursDuMal_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Electric Bass/Stereo/TheScarletBrand_LesFleursDuMal_STEM_02.wav"
+        male singer:
+            trim_at(s): 254
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_RAW/Male Singer/TheScarletBrand_LesFleursDuMal_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Male Singer/Mono/TheScarletBrand_LesFleursDuMal_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_STEMS/Male Singer/Stereo/TheScarletBrand_LesFleursDuMal_STEM_08.wav"
+    TheSoSoGlos_Emergency:
+        acoustic guitar:
+            trim_at(s): 65
+            id_raw: "02"
+            id_stem: "09"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_RAW/Acoustic Guitar/TheSoSoGlos_Emergency_RAW_09_02.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Acoustic Guitar/Mono/TheSoSoGlos_Emergency_STEM_09.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Acoustic Guitar/Stereo/TheSoSoGlos_Emergency_STEM_09.wav"
+        distorted electric guitar:
+            trim_at(s): 151
+            id_raw: "03"
+            id_stem: "04"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_RAW/Distorted Electric Guitar/TheSoSoGlos_Emergency_RAW_04_03.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Distorted Electric Guitar/Mono/TheSoSoGlos_Emergency_STEM_04.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Distorted Electric Guitar/Stereo/TheSoSoGlos_Emergency_STEM_04.wav"
+        electric bass:
+            trim_at(s): 84
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_RAW/Electric Bass/TheSoSoGlos_Emergency_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Electric Bass/Mono/TheSoSoGlos_Emergency_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Electric Bass/Stereo/TheSoSoGlos_Emergency_STEM_01.wav"
+        male singer:
+            trim_at(s): 58
+            id_raw: "01"
+            id_stem: "05"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_RAW/Male Singer/TheSoSoGlos_Emergency_RAW_05_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Male Singer/Mono/TheSoSoGlos_Emergency_STEM_05.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency/TheSoSoGlos_Emergency_STEMS/Male Singer/Stereo/TheSoSoGlos_Emergency_STEM_05.wav"
+    TheSoSoGlos_Emergency2:
+        electric bass:
+            trim_at(s): 71
+            id_raw: "01"
+            id_stem: "08"
+            raw_path: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency2/TheSoSoGlos_Emergency2_RAW/Electric Bass/TheSoSoGlos_Emergency2_RAW_08_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency2/TheSoSoGlos_Emergency2_STEMS/Electric Bass/Mono/TheSoSoGlos_Emergency2_STEM_08.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/TheSoSoGlos_Emergency2/TheSoSoGlos_Emergency2_STEMS/Electric Bass/Stereo/TheSoSoGlos_Emergency2_STEM_08.wav"
+    Wolf_DieBekherte:
+        female singer:
+            trim_at(s): 98
+            id_raw: "01"
+            id_stem: "01"
+            raw_path: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_RAW/Female Singer/Wolf_DieBekherte_RAW_01_01.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Female Singer/Mono/Wolf_DieBekherte_STEM_01.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Female Singer/Stereo/Wolf_DieBekherte_STEM_01.wav"
+        piano:
+            trim_at(s): 42
+            id_raw: "04"
+            id_stem: "02"
+            raw_path: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_RAW/Piano/Wolf_DieBekherte_RAW_02_04.wav"
+            stem_path_mono: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Piano/Mono/Wolf_DieBekherte_STEM_02.wav"
+            stem_path_stereo: "./Music/Data/MedleyDB/Audio/Wolf_DieBekherte/Wolf_DieBekherte_STEMS/Piano/Stereo/Wolf_DieBekherte_STEM_02.wav"

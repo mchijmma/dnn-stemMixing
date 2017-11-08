@@ -1,0 +1,81 @@
+ccollections
+OrderedDict
+p0
+((lp1
+(lp2
+S'b'
+p3
+a(lp4
+S'./Music/Data/MedleyDB/Audio/AvaLuna_Waterduct/AvaLuna_Waterduct_RAW/Electric Bass/AvaLuna_Waterduct_RAW_01_01.wav'
+p5
+aS'./Music/Data/MedleyDB/Audio/TheScarletBrand_LesFleursDuMal/TheScarletBrand_LesFleursDuMal_RAW/Electric Bass/TheScarletBrand_LesFleursDuMal_RAW_02_01.wav'
+p6
+aS'./Music/Data/MedleyDB/Audio/DreamersOfTheGhetto_HeavyLove/DreamersOfTheGhetto_HeavyLove_RAW/Electric Bass/DreamersOfTheGhetto_HeavyLove_RAW_01_01.wav'
+p7
+aS'./Music/Data/MedleyDB/Audio/Auctioneer_OurFutureFaces/Auctioneer_OurFutureFaces_RAW/Electric Bass/Auctioneer_OurFutureFaces_RAW_02_02.wav'
+p8
+aS'./Music/Data/MedleyDB/Audio/KarimDouaidy_Hopscotch/KarimDouaidy_Hopscotch_RAW/Electric Bass/KarimDouaidy_Hopscotch_RAW_01_01.wav'
+p9
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Electric Bass/PortStWillow_StayEven_RAW_10_01.wav'
+p10
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_WaltzForMyVictims/ClaraBerryAndWooldog_WaltzForMyVictims_RAW/Electric Bass/ClaraBerryAndWooldog_WaltzForMyVictims_RAW_02_01.wav'
+p11
+aaa(lp12
+S'g'
+p13
+a(lp14
+S'./Music/Data/MedleyDB/Audio/AClassicEducation_NightOwl/AClassicEducation_NightOwl_RAW/Distorted Electric Guitar/AClassicEducation_NightOwl_RAW_04_01.wav'
+p15
+aS'./Music/Data/MedleyDB/Audio/Phoenix_SeanCaughlinsTheScartaglen/Phoenix_SeanCaughlinsTheScartaglen_RAW/Acoustic Guitar/Phoenix_SeanCaughlinsTheScartaglen_RAW_01_01.wav'
+p16
+aS'./Music/Data/MedleyDB/Audio/EthanHein_GirlOnABridge/EthanHein_GirlOnABridge_RAW/Distorted Electric Guitar/EthanHein_GirlOnABridge_RAW_05_01.wav'
+p17
+aS'./Music/Data/MedleyDB/Audio/AimeeNorwich_Child/AimeeNorwich_Child_RAW/Clean Electric Guitar/AimeeNorwich_Child_RAW_03_01.wav'
+p18
+aS'./Music/Data/MedleyDB/Audio/Phoenix_LarkOnTheStrandDrummondCastle/Phoenix_LarkOnTheStrandDrummondCastle_RAW/Acoustic Guitar/Phoenix_LarkOnTheStrandDrummondCastle_RAW_01_01.wav'
+p19
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Rainfall/LizNelson_Rainfall_RAW/Clean Electric Guitar/LizNelson_Rainfall_RAW_05_01.wav'
+p20
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Reggae/MusicDelta_Reggae_RAW/Clean Electric Guitar/MusicDelta_Reggae_RAW_03_01.wav'
+p21
+aS'./Music/Data/MedleyDB/Audio/PortStWillow_StayEven/PortStWillow_StayEven_RAW/Clean Electric Guitar/PortStWillow_StayEven_RAW_07_03.wav'
+p22
+aS'./Music/Data/MedleyDB/Audio/LizNelson_Coldwar/LizNelson_Coldwar_RAW/Acoustic Guitar/LizNelson_Coldwar_RAW_01_01.wav'
+p23
+aaa(lp24
+S'v'
+p25
+a(lp26
+S'./Music/Data/MedleyDB/Audio/MusicDelta_Disco/MusicDelta_Disco_RAW/Male Singer/MusicDelta_Disco_RAW_04_01.wav'
+p27
+aS'./Music/Data/MedleyDB/Audio/TheDistricts_Vermont/TheDistricts_Vermont_RAW/Male Singer/TheDistricts_Vermont_RAW_05_01.wav'
+p28
+aS'./Music/Data/MedleyDB/Audio/Lushlife_ToynbeeSuite/Lushlife_ToynbeeSuite_RAW/Male Rapper/Lushlife_ToynbeeSuite_RAW_26_01.wav'
+p29
+aS'./Music/Data/MedleyDB/Audio/BrandonWebster_YesSirICanFly/BrandonWebster_YesSirICanFly_RAW/Male Singer/BrandonWebster_YesSirICanFly_RAW_02_01.wav'
+p30
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_Rock/MusicDelta_Rock_RAW/Male Singer/MusicDelta_Rock_RAW_05_01.wav'
+p31
+aS'./Music/Data/MedleyDB/Audio/FamilyBand_Again/FamilyBand_Again_RAW/Female Singer/FamilyBand_Again_RAW_09_01.wav'
+p32
+aaa(lp33
+S'k'
+p34
+a(lp35
+S'./Music/Data/MedleyDB/Audio/MichaelKropf_AllGoodThings/MichaelKropf_AllGoodThings_RAW/Piano/MichaelKropf_AllGoodThings_RAW_01_01.wav'
+p36
+aS'./Music/Data/MedleyDB/Audio/StevenClark_Bounty/StevenClark_Bounty_RAW/Piano/StevenClark_Bounty_RAW_09_02.wav'
+p37
+aS'./Music/Data/MedleyDB/Audio/MusicDelta_FusionJazz/MusicDelta_FusionJazz_RAW/Synthesizer/MusicDelta_FusionJazz_RAW_04_01.wav'
+p38
+aS'./Music/Data/MedleyDB/Audio/InvisibleFamiliars_DisturbingWildlife/InvisibleFamiliars_DisturbingWildlife_RAW/Tack Piano/InvisibleFamiliars_DisturbingWildlife_RAW_10_01.wav'
+p39
+aS'./Music/Data/MedleyDB/Audio/MatthewEntwistle_FairerHopes/MatthewEntwistle_FairerHopes_RAW/Piano/MatthewEntwistle_FairerHopes_RAW_13_01.wav'
+p40
+aS'./Music/Data/MedleyDB/Audio/Snowmine_Curfews/Snowmine_Curfews_RAW/Synthesizer/Snowmine_Curfews_RAW_09_10.wav'
+p41
+aS'./Music/Data/MedleyDB/Audio/ClaraBerryAndWooldog_Stella/ClaraBerryAndWooldog_Stella_RAW/Synthesizer/ClaraBerryAndWooldog_Stella_RAW_06_01.wav'
+p42
+aaatp43
+Rp44
+.
